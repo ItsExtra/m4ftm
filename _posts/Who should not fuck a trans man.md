@@ -1,18 +1,5 @@
----
-id: 940
-title: 'Q: Who should NOT fuck a trans man?'
-date: 2016-02-21T22:25:17+00:00
-author: jack
-excerpt: |
-layout: post
-guid: https://m4ftm.com/?p=940
-permalink: /2016/02/21/q-who-should-not-fuck-a-trans-man/
-geo_public:
-  - "0"
-categories:
-  - Questions from gay men
-  - Uncategorized
----
+# Who should not fuck a trans man?
+
 After all this writing about why and how to fuck trans men, I&#8217;d like to bring things down a bit and mention some situations where you should maybe reconsider, because you risk ruining someone else&#8217;s day.
 
 **You&#8217;d be better off with a blow up doll**
