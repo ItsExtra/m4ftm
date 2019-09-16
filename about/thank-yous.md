@@ -15,4 +15,4 @@ robpseudonymous
 
 Rocket Ship
 
-If you are listed here and would like to have your info removed or updated, please be in touch. And of course, if you have been missed, don&#8217;t be shy!
+If you are listed here and would like to have your info removed or updated, please be in touch. And of course, if you have been missed, don't be shy!

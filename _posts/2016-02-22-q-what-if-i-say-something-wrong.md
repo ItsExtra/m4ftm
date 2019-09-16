@@ -58,7 +58,7 @@ If you aren’t sure if something is OK to ask or say, try to think of another 
 
 **If you make a mistake**
 
-Nobody’s perfect. I have mispronounced (using “she” instead of “he” when for some reason referring to myself in the third person) _myself _out of habit. Just apologize, move on and don&#8217;t do it again.
+Nobody’s perfect. I have mispronounced (using “she” instead of “he” when for some reason referring to myself in the third person) _myself _out of habit. Just apologize, move on and don't do it again.
 
 **The word tranny**
 

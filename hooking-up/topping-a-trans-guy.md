@@ -10,9 +10,9 @@ geo_public:
   - "0"
 image: /wp-content/uploads/2016/02/watch-jack_s-package-starring-jade-phillip-and-jack-hammer.jpg
 ---
-Trans men who have not had surgery to remove their cunts (which isn&#8217;t very common) have up to three holes to fuck. Like everyone else, everyone has their preferences. Some people like fingers, toys, cocks and other things in one, two, all three or none at all. Usually a guy who&#8217;s chatting with you online or at a bar will tell you what they are into. If they don&#8217;t, and there is something specific you&#8217;re looking for, just ask.
+Trans men who have not had surgery to remove their cunts (which isn't very common) have up to three holes to fuck. Like everyone else, everyone has their preferences. Some people like fingers, toys, cocks and other things in one, two, all three or none at all. Usually a guy who's chatting with you online or at a bar will tell you what they are into. If they don't, and there is something specific you're looking for, just ask.
 
-Some ways to ask about a guy you&#8217;d like to top:
+Some ways to ask about a guy you'd like to top:
 
   * Do you like to be fucked?
   * Do you like anal?
@@ -28,9 +28,9 @@ Some ways to ask about a guy you&#8217;d like to top:
 
 **A word about language**: Some trans people are sensitive about the words used to describe their bodies. For trans men, the safest thing is to use the same language he does, or just ask if he has a preference. Words that have a &#8220;feminine&#8221; connotation are the ones most likely to be uncool: pussy, cunt, vagina, vulva, clit. Some trans guys use &#8220;male&#8221; words to describe their bodies, like cock and dick. Others use neutral terms like front hole or just front. Also, some trans guys might not like gendered language like &#8220;bitch&#8221; or &#8220;slut&#8221; if you are into that kind of thing. But then again, some do. So you should ask.
 
-Let&#8217;s get started:
+Let's get started:
 
-[Fingering a trans guy&#8217;s front hole](http://m4ftm.com/hooking-up/fingering-a-trans-guys-front-hole/)
+[Fingering a trans guy's front hole](http://m4ftm.com/hooking-up/fingering-a-trans-guys-front-hole/)
 
 [Jerking off a trans guy](http://m4ftm.com/hooking-up/jerking-off-a-trans-guy/)
 

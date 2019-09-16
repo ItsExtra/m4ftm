@@ -9,15 +9,15 @@ guid: https://m4ftm.com/?page_id=1011
 geo_public:
   - "0"
 ---
-I am seeking collaborators on this project. This can be either locally (I&#8217;m in Toronto, Canada) or further away. I am open to a variety of levels of engagement from proof-reader to co-admin.
+I am seeking collaborators on this project. This can be either locally (I'm in Toronto, Canada) or further away. I am open to a variety of levels of engagement from proof-reader to co-admin.
 
-In particular some &#8220;peer review&#8221; would be helpful regarding the content. I tried my best to include all the main kinds of sex I have seen mentioned on websites and apps, but some of them I am much less familiar with that others, so I just did my best. If you have insight into any of the following, which I&#8217;m especially weak on, I&#8217;d love to hear from you:
+In particular some &#8220;peer review&#8221; would be helpful regarding the content. I tried my best to include all the main kinds of sex I have seen mentioned on websites and apps, but some of them I am much less familiar with that others, so I just did my best. If you have insight into any of the following, which I'm especially weak on, I'd love to hear from you:
 
   * [Topping](http://m4ftm.com/hooking-up/bottoming-to-a-trans-guy/) _as_ a trans man, especially [strap ons](http://m4ftm.com/hooking-up/getting-fucked-in-the-ass-by-a-trans-man/) and [bjs](http://m4ftm.com/hooking-up/sucking-a-trans-mans-dick/)
   * Bottoming _to_ a trans man in any capacity
-  * Anything from cis guys that I can&#8217;t notice because of my perspective
+  * Anything from cis guys that I can't notice because of my perspective
 
-If there is anything I straight up missed I&#8217;d also like to know about it. With a couple of exceptions for completeness, I am trying to limit this _only_ to acts where there might conceivably be a knowledge gap. I also decided not to go for every fetish under the sun, although there is a special page about [kinky sex](http://m4ftm.com/hooking-up/kinky-sex-with-trans-guys/) (am I missing anything there?), again not all of which I have experience with.
+If there is anything I straight up missed I'd also like to know about it. With a couple of exceptions for completeness, I am trying to limit this _only_ to acts where there might conceivably be a knowledge gap. I also decided not to go for every fetish under the sun, although there is a special page about [kinky sex](http://m4ftm.com/hooking-up/kinky-sex-with-trans-guys/) (am I missing anything there?), again not all of which I have experience with.
 
 If you are interested in collaborating, here are some things that
 

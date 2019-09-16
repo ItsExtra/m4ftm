@@ -9,9 +9,9 @@ guid: https://m4ftm.com/?page_id=189
 geo_public:
   - "0"
 ---
-Sometimes cis (non trans) gay men are a bit shy about hooking up with trans guys because they aren&#8217;t sure what they are supposed to do. Especially for guys who&#8217;ve only or mostly ever had sex with others of the same body, it can be intimidating to try to learn a different kind of body.
+Sometimes cis (non trans) gay men are a bit shy about hooking up with trans guys because they aren't sure what they are supposed to do. Especially for guys who've only or mostly ever had sex with others of the same body, it can be intimidating to try to learn a different kind of body.
 
-Here are the basics of hooking up with the hot FTM guy you&#8217;ve been chatting to on grindr.
+Here are the basics of hooking up with the hot FTM guy you've been chatting to on grindr.
 
 <ul class="children">
   <li class="page_item page-item-483">

@@ -1,6 +1,6 @@
 ---
 id: 1024
-title: 'Male and female bodies: What&#8217;s the difference?'
+title: 'Male and female bodies: What's the difference?'
 date: 2016-02-24T03:46:00+00:00
 author: jack
 excerpt: |
@@ -16,17 +16,17 @@ categories:
 
 All fetuses start out with the same anatomy, but at [7 weeks](https://en.wikipedia.org/wiki/Sexual_differentiation_in_humans), changes in anatomy start happening which lead most people to have what we think of as male and female bodies.
 
-It&#8217;s important to note that an [estimated](http://www.isna.org/faq/frequency) 1% of people have &#8220;bodies [that] differ from standard male or female,&#8221; and 1 in 1,666 people do not have XX (generally associated with females) or XY (thought of as male) chromosomes. Many people who have other chromosome combinations don&#8217;t even know it, and may be surprised to find this out when they undergo genetic testing for some other reason. I am going to use the terms &#8220;male&#8221; and &#8220;female&#8221; here to describe the 99% of people who have bodies that meet the common definitions.
+It's important to note that an [estimated](http://www.isna.org/faq/frequency) 1% of people have &#8220;bodies [that] differ from standard male or female,&#8221; and 1 in 1,666 people do not have XX (generally associated with females) or XY (thought of as male) chromosomes. Many people who have other chromosome combinations don't even know it, and may be surprised to find this out when they undergo genetic testing for some other reason. I am going to use the terms &#8220;male&#8221; and &#8220;female&#8221; here to describe the 99% of people who have bodies that meet the common definitions.
 
 Male and female bodies are not as different as you may think. Everyone has basically the same structures, but they develop differently.
 
 **Junk**
 
-Here are two really good pictures from _A New View of a Woman&#8217;s Body_ that show things well (click to make them bigger):
+Here are two really good pictures from _A New View of a Woman's Body_ that show things well (click to make them bigger):
 
 [<img class="alignnone size-medium wp-image-42" src="http://localhost:8888/wordpress/wp-content/uploads/2016/02/nvpenis.png?w=300" alt="NVpenis" width="300" height="299" srcset="http://localhost:8888/wordpress/wp-content/uploads/2016/02/nvpenis.png 1725w, http://localhost:8888/wordpress/wp-content/uploads/2016/02/nvpenis-150x150.png 150w, http://localhost:8888/wordpress/wp-content/uploads/2016/02/nvpenis-300x300.png 300w, http://localhost:8888/wordpress/wp-content/uploads/2016/02/nvpenis-768x765.png 768w, http://localhost:8888/wordpress/wp-content/uploads/2016/02/nvpenis-1024x1020.png 1024w, http://localhost:8888/wordpress/wp-content/uploads/2016/02/nvpenis-1568x1563.png 1568w" sizes="(max-width: 300px) 100vw, 300px" /><img class="alignnone size-medium wp-image-43" src="http://localhost:8888/wordpress/wp-content/uploads/2016/02/nvclitoris.png?w=249" alt="NVclitoris" width="249" height="300" srcset="http://localhost:8888/wordpress/wp-content/uploads/2016/02/nvclitoris.png 1608w, http://localhost:8888/wordpress/wp-content/uploads/2016/02/nvclitoris-249x300.png 249w, http://localhost:8888/wordpress/wp-content/uploads/2016/02/nvclitoris-768x927.png 768w, http://localhost:8888/wordpress/wp-content/uploads/2016/02/nvclitoris-848x1024.png 848w, http://localhost:8888/wordpress/wp-content/uploads/2016/02/nvclitoris-1568x1893.png 1568w" sizes="(max-width: 249px) 100vw, 249px" />](http://localhost:8888/wordpress/wp-content/uploads/2016/02/nvpenis.png)
 
-You can think of a female body as having a penis that is smaller and held against the body, rather than big and hanging out. Female bodies have the same structure of erectile tissue as male bodies, but when females get turned on and hard it&#8217;s not as noticeable because it hugs the body.
+You can think of a female body as having a penis that is smaller and held against the body, rather than big and hanging out. Female bodies have the same structure of erectile tissue as male bodies, but when females get turned on and hard it's not as noticeable because it hugs the body.
 
 Wikipedia has a [detailed list](https://en.wikipedia.org/wiki/List_of_related_male_and_female_reproductive_organs) of related male and female body parts. But to help you imagine what it feels like to have a female body, here are the basics (not 100% technically accurate but it gets the point across):
 

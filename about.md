@@ -11,7 +11,7 @@ geo_public:
 ---
 ##### Introduction
 
-This website was created because when I talk to cis (non trans) gay/bi guys online or in real life, there is a lot of nervousness and uncertainty when it comes to the possibilities of playing with trans guys. Some guys feel that being with a trans man means [they aren&#8217;t really gay](http://m4ftm.com/2016/02/22/q-if-i-fuck-an-ftm-am-i-still-gay/). Some would like to, but are nervous because they don&#8217;t know what to expect and don&#8217;t know what they would even _do_ with a trans guy. This leads to some pretty severe performance anxiety. To someone who has always, or mostly, only fucked people with a body quite similar to their own, trying something new can be daunting.
+This website was created because when I talk to cis (non trans) gay/bi guys online or in real life, there is a lot of nervousness and uncertainty when it comes to the possibilities of playing with trans guys. Some guys feel that being with a trans man means [they aren't really gay](http://m4ftm.com/2016/02/22/q-if-i-fuck-an-ftm-am-i-still-gay/). Some would like to, but are nervous because they don't know what to expect and don't know what they would even _do_ with a trans guy. This leads to some pretty severe performance anxiety. To someone who has always, or mostly, only fucked people with a body quite similar to their own, trying something new can be daunting.
 
 ##### Goals
 

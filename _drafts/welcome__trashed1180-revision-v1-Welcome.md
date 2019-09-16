@@ -8,4 +8,4 @@ layout: revision
 guid: http://localhost:8888/wordpress/2019/09/16/1180-revision-v1/
 permalink: /2019/09/16/1180-revision-v1/
 ---
-This website is intended as a resource for cis (non trans) gay men who are interested in learning more about hooking up with trans men. It&#8217;s not all that complicated, but here is the info you might like to know if you are planning to meet up with an FTM.
+This website is intended as a resource for cis (non trans) gay men who are interested in learning more about hooking up with trans men. It's not all that complicated, but here is the info you might like to know if you are planning to meet up with an FTM.

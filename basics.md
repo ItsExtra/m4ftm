@@ -27,7 +27,7 @@ We use the term _transition_ to describe a decision to stop living as one gende
 
 **Body modifications**
 
-Many trans people have some some sort of medical intervention to help them look and feel better in their bodies. Not all people have or want to have the same things done, for all kinds of reasons: price, safety, uncertainty of results, and because not all of us desire to have exactly the same kind of body. Like all people, we have different feelings about our bodies. A feature of one trans person&#8217;s body that causes them lots of distress (a feeling called _dysphoria_) could be something another one loves about themselves.
+Many trans people have some some sort of medical intervention to help them look and feel better in their bodies. Not all people have or want to have the same things done, for all kinds of reasons: price, safety, uncertainty of results, and because not all of us desire to have exactly the same kind of body. Like all people, we have different feelings about our bodies. A feature of one trans person's body that causes them lots of distress (a feeling called _dysphoria_) could be something another one loves about themselves.
 
 **The big T**
 
@@ -35,9 +35,9 @@ Taking testosterone is the #1 most common intervention trans men seek out. Most 
 
 The most common way of taking T is a weekly or bi weekly injection, generally of about 0.5mL of juice which we give ourselves, or have someone else do. There are other kinds, like longer-acting injections and topical creams. But injection is what most opt for.
 
-When a trans man starts taking T, he&#8217;s usually started on a low dose and tapered up. Starting in a few weeks he slowly goes through a second puberty for the next couple of years.
+When a trans man starts taking T, he's usually started on a low dose and tapered up. Starting in a few weeks he slowly goes through a second puberty for the next couple of years.
 
-T does to the female body pretty much the same thing as it does to the male body, just later in life. If taken after the first puberty is finished, it doesn&#8217;t affect the bones, so trans men don&#8217;t get any taller, bigger feet or other changes to the skeleton. However the effects of T are pretty substantial. You can read all about it at [wikipedia](https://en.wikipedia.org/wiki/Hormone_replacement_therapy_(female-to-male)), but here are the basics:
+T does to the female body pretty much the same thing as it does to the male body, just later in life. If taken after the first puberty is finished, it doesn't affect the bones, so trans men don't get any taller, bigger feet or other changes to the skeleton. However the effects of T are pretty substantial. You can read all about it at [wikipedia](https://en.wikipedia.org/wiki/Hormone_replacement_therapy_(female-to-male)), but here are the basics:
 
   * Body hair grows in a typically male pattern according to you genetics
   * Depending on age and genetics, might have male pattern baldness
@@ -55,9 +55,9 @@ After 6 months to 2 years on T, most trans men &#8220;pass&#8221; 100%. That me
 
 When starting on T, sex drive goes _way_ up, especially at the beginning (you remember what being a teenager was like!). Some people find that their sexuality changes significantly when starting on hormones. Changes in who they are attracted to, what activities they want or enjoy, how their bodies feel and what turns them on are common. And of course, the psychological effect of feeling better in their body can also have a huge effect.
 
-Trans men who take T usually develop a more male sexual response. The way we think about sex changes to be like men. We are more likely to get turned on seeing a hottie in the street than we were before. Sex can become a top priority to someone who didn&#8217;t feel that way before. Porn might become more interesting. We can be quicker to arouse.
+Trans men who take T usually develop a more male sexual response. The way we think about sex changes to be like men. We are more likely to get turned on seeing a hottie in the street than we were before. Sex can become a top priority to someone who didn't feel that way before. Porn might become more interesting. We can be quicker to arouse.
 
-T affects the physical structures of our genitals. The extent of these changes is different between people, but our junk is not the same as a woman&#8217;s. Changes that can happen:
+T affects the physical structures of our genitals. The extent of these changes is different between people, but our junk is not the same as a woman's. Changes that can happen:
 
   * Clit grows bigger
   * Less juice
@@ -71,11 +71,11 @@ When a lot of people hear &#8220;trans,&#8221; what they first think of is &#822
 
 While the most obvious kind of surgery is performed on the genitals, a lot of trans men choose not to have this done, or are not able to access it if they do want it. There is in fact no such thing as &#8220;the surgery&#8221; for either trans men or trans women.
 
-You have probably heard the term &#8220;pre op&#8221; to describe a trans person who has not had any surgical procedures, and &#8220;post op&#8221; to describe one that has. These terms aren&#8217;t very useful though. &#8220;Pre op&#8221; assumes that someone is going to have surgery some day, which may or may not be the case. &#8220;Post op&#8221; just isn&#8217;t very descriptive. As you will see, there are various different procedures, which can be performed in different combinations and orders.
+You have probably heard the term &#8220;pre op&#8221; to describe a trans person who has not had any surgical procedures, and &#8220;post op&#8221; to describe one that has. These terms aren't very useful though. &#8220;Pre op&#8221; assumes that someone is going to have surgery some day, which may or may not be the case. &#8220;Post op&#8221; just isn't very descriptive. As you will see, there are various different procedures, which can be performed in different combinations and orders.
 
 **Top surgery**
 
-_Top surgery_ is what we call removing, reducing, and reshaping the tissue of our chests. There are various techniques depending on the body shape and individual&#8217;s desires and priorities. Top surgery is probably the most common surgical procedure for trans guys, and the goal is to change the shape of the chest to be more typically male. Here&#8217;s a picture of someone who has had top surgery and taken T:
+_Top surgery_ is what we call removing, reducing, and reshaping the tissue of our chests. There are various techniques depending on the body shape and individual's desires and priorities. Top surgery is probably the most common surgical procedure for trans guys, and the goal is to change the shape of the chest to be more typically male. Here's a picture of someone who has had top surgery and taken T:
 
 <figure id="attachment_177" aria-describedby="caption-attachment-177" style="width: 497px" class="wp-caption aligncenter"><img class="alignnone size-full wp-image-177" src="http://localhost:8888/wordpress/wp-content/uploads/2016/02/2014-05-24-2.png" alt="Picture of a chest" width="497" height="450" srcset="http://localhost:8888/wordpress/wp-content/uploads/2016/02/2014-05-24-2.png 497w, http://localhost:8888/wordpress/wp-content/uploads/2016/02/2014-05-24-2-300x272.png 300w" sizes="(max-width: 497px) 100vw, 497px" /><figcaption id="caption-attachment-177" class="wp-caption-text">Source: [Geek By Nature](https://geekbynature.wordpress.com/2014/05/24/6-years-7-months-day-2408-a-beginning/)</figcaption></figure>
 
@@ -83,8 +83,8 @@ One thing you should know about top surgery is that it can reduce or even elimin
 
 **Bottom Surgery**
 
-Other than top surgery, a trans man may have had some sort of _bottom surgery_ also. This could be an internal procedure (hysterectomy or removal of the ovaries) that you wouldn&#8217;t notice, and/or some sort of genital reconstruction.
+Other than top surgery, a trans man may have had some sort of _bottom surgery_ also. This could be an internal procedure (hysterectomy or removal of the ovaries) that you wouldn't notice, and/or some sort of genital reconstruction.
 
-I&#8217;m not going to get into the different kinds of bottom surgery here. From what I can see on apps and websites around me, not a lot of guys have had them. There are various kinds and outcomes are really different. If a guy has had surgery, he is the best person to tell you about it and what you can expect.
+I'm not going to get into the different kinds of bottom surgery here. From what I can see on apps and websites around me, not a lot of guys have had them. There are various kinds and outcomes are really different. If a guy has had surgery, he is the best person to tell you about it and what you can expect.
 
-The curious can read details about various procedures at [Hudson&#8217;s FTM Guide](http://www.ftmguide.org/grs.html).
+The curious can read details about various procedures at [Hudson's FTM Guide](http://www.ftmguide.org/grs.html).
