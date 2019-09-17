@@ -1,3 +1,5 @@
 url: http://localhost:8888/wordpress
 name: m4ftm
 description: Just another WordPress site
+
+theme: jekyll-theme-dinky
