@@ -2,7 +2,7 @@
 published: true
 date: 2019-09-09T09:09:09+00:00
 author: Jack
-layout: page
+zlayout: page
 title: Genderqueer, non binary and other trans* people
 permalink: /basics/genderqueer-nonbinary.html
 categories: ['m4ftm', 'gay']
