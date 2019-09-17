@@ -33,18 +33,18 @@ m4ftm.com in beta
       \___/|_| |_| |_|\__(_)     
 
 
-      {{ page.content }}  - un-rendered content
-      {{ page.title }}
-      {{ page.excerpt }}  - un-rendered excerpt
-      {{ page.url }}
-      {{ page.date }}
-      {{ page.id }}       - unique id for RSS feeds
-      {{ page.categories }}
-      {{ page.tags }}
-      {{ page.path }}
-      {{ page.dir }}
-      {{ page.excerpt | remove: '<p>' | remove: '</p>' }}
-      {{ page.excerpt | strip_html }}
+{{ page.content }}  - un-rendered content
+{{ page.title }}
+{{ page.excerpt }}  - un-rendered excerpt
+{{ page.url }}
+{{ page.date }}
+{{ page.id }}       - unique id for RSS feeds
+{{ page.categories }}
+{{ page.tags }}
+{{ page.path }}
+{{ page.dir }}
+{{ page.excerpt | remove: '<p>' | remove: '</p>' }}
+{{ page.excerpt | strip_html }}
 
 ------
 
