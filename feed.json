@@ -11,6 +11,20 @@
     },
     "items": [
         {
+            "id": "https://itsextra.github.io/m4ftm/contact/",
+            "url": "https://itsextra.github.io/m4ftm/contact/",
+            "title": "Contact",
+            "summary": "Name: First Name Last Name CountryAustraliaCanadaUSASubject ",
+            "content_html": "<div class=\"container\"><form action=\"https://formspree.io/469ff257-ec0a-4738-9a60-298c3ef3470e@anonaddy.me\" method=\"POST\">Name: <input name=\"name\" type=\"text\"> <input name=\"_subject\" type=\"hidden\" value=\"m4ftm form submission\"> <label for=\"fname\">First Name</label> <input id=\"fname\" name=\"firstname\" type=\"text\" placeholder=\"Your name..\"> <label for=\"lname\">Last Name</label> <input id=\"lname\" name=\"lastname\" type=\"text\" placeholder=\"Your last name..\"> <label for=\"country\">Country</label><select id=\"country\" name=\"country\">\n<option value=\"australia\">Australia</option>\n<option value=\"canada\">Canada</option>\n<option value=\"usa\">USA</option>\n</select><label for=\"subject\">Subject</label> <textarea id=\"subject\" style=\"height: 200px;\" name=\"subject\" placeholder=\"Write something..\"></textarea> <input type=\"submit\" value=\"Submit\"></form></div>",
+            "author": {
+                "name": "ItsExtra"
+            },
+            "tags": [
+            ],
+            "date_published": "2019-09-17T19:25:26-04:00",
+            "date_modified": "2019-09-17T19:25:26-04:00"
+        },
+        {
             "id": "https://itsextra.github.io/m4ftm/beta-feedback/",
             "url": "https://itsextra.github.io/m4ftm/beta-feedback/",
             "title": "Beta Site Feedback",

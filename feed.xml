@@ -3,12 +3,36 @@
     <title>m4ftm</title>
     <link href="https://itsextra.github.io/m4ftm/feed.xml" rel="self" />
     <link href="https://itsextra.github.io/m4ftm" />
-    <updated>2019-09-17T18:56:48-04:00</updated>
+    <updated>2019-09-17T19:20:25-04:00</updated>
     <author>
         <name>ItsExtra</name>
     </author>
     <id>https://itsextra.github.io/m4ftm</id>
 
+    <entry>
+        <title>Contact</title>
+        <author>
+            <name>ItsExtra</name>
+        </author>
+        <link href="https://itsextra.github.io/m4ftm/contact/"/>
+        <id>https://itsextra.github.io/m4ftm/contact/</id>
+
+        <updated>2019-09-17T19:25:26-04:00</updated>
+            <summary>
+                <![CDATA[
+                    Name: First Name Last Name CountryAustraliaCanadaUSASubject 
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <div class="container"><form action="https://formspree.io/469ff257-ec0a-4738-9a60-298c3ef3470e@anonaddy.me" method="POST">Name: <input name="name" type="text"> <input name="_subject" type="hidden" value="m4ftm form submission"> <label for="fname">First Name</label> <input id="fname" name="firstname" type="text" placeholder="Your name.."> <label for="lname">Last Name</label> <input id="lname" name="lastname" type="text" placeholder="Your last name.."> <label for="country">Country</label><select id="country" name="country">
+<option value="australia">Australia</option>
+<option value="canada">Canada</option>
+<option value="usa">USA</option>
+</select><label for="subject">Subject</label> <textarea id="subject" style="height: 200px;" name="subject" placeholder="Write something.."></textarea> <input type="submit" value="Submit"></form></div>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Beta Site Feedback</title>
         <author>
