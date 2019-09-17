@@ -5,6 +5,7 @@ The mysterious vagina... Actually, it's not that mysterious. It's just a little 
 Cunt holes can be different sizes. Some trans guys have small tight pussies while others can take a couple of fists. Just like anal, you should ask about whatever you want to know.
 
 ~~there was a picture here~~
+<!-- Playing with FTM [<a href="http://www.xtube.com/video-watch/Playing-with-FTM-26236531" target="_blank" rel="noopener noreferrer">watch video</a>] -->
 
 ## What it feels like in a pussy
 

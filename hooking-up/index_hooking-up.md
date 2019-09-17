@@ -36,19 +36,3 @@ Here are the basics of hooking up with the hot FTM guy you've been chatting to o
     <a href="http://m4ftm.com/hooking-up/topping-a-trans-guy/">Topping a trans guy 101</a>
   </li>
 </ul>
-
-&nbsp;
-
-&nbsp;
-
-&nbsp;
-
-&nbsp;
-
-&nbsp;
-
-&nbsp;
-
-&nbsp;
-
-&nbsp;

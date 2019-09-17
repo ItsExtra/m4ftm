@@ -1,15 +1,8 @@
----
-id: 1029
-title: Talking dirty with a trans guy (draft)
-date: 2016-03-02T01:17:27+00:00
-author: jack
-excerpt: |
-layout: page
-guid: https://m4ftm.com/?page_id=1029
----
+# Talking dirty with a trans guy (draft)
+
 Communication is an important part of good sex. It's especially important when dealing with trans folks, because many of us have unusual relationships with our bodies. Making assumptions isn't a good idea about some things in particular. TO make sure everyone has a good time, here are some hints.
 
-**Body parts**
+# Body parts
 
 Some trans people are sensitive about the words used to describe their bodies. There can be an awful lot of emotional baggage there. For trans men, the safest thing is to use the same language he does, or just ask if he has a preference. Words that have a “feminine” connotation are the ones most likely to be uncool: pussy, cunt, vagina, vulva, vajayajay, clit, tits, boobs. Some trans guys use “masculine” words to describe their bodies, like cock, dick, balls, chest. Others use neutral terms like front hole or just front. Also, some trans guys might not like gendered language like “bitch” or “slut” if you are into that kind of thing. But then again, some do like all of the above. So you should ask.
 
@@ -17,7 +10,7 @@ If this feels like "walking on eggshells" to you, just consider that lots of peo
 
 To find out about this, you can ask direct questions like, "are there any words you don't like to describe your body?" or "what do you call your vagina?". You can also pick up from the conversation when you ask him about other things what he likes. If he mentions "stroking my dick" or "a dildo in my vagina" those would both be good signs.
 
-**Asking about it**
+## Asking about it
 
 You'll notice on this website that every page says something along the lines of "but you should probably ask him". Is that a mood killer? Does it turn hooking up into a game of 20,000 questions with an intake form and boxes to check? I don't think so.
 

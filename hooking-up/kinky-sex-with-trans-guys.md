@@ -1,15 +1,8 @@
----
-id: 485
-title: Kinky sex with trans guys
-date: 2016-02-22T02:11:04+00:00
-author: jack
-excerpt: |
-layout: page
-guid: https://m4ftm.com/?page_id=485
----
+# Kinky sex with trans guys
+
 Some specific preferences and kinks might require modification to do with a trans guy. Here are some activities I see come up as desires on apps and websites with thoughts on how to adapt them to a trans guy.
 
-**General kink guidelines**
+## General kink guidelines
 
 Fetlife ("the facebook of sex") should be considered as an option if you need advice. There are hundreds of very active forums on every fetish, with people of all genders and orientations active. As with anything you read on the internet, take everything with a grain of salt and use judgement. The more risky an activity, the more the onus is on both of you to understand all the variables involved in order to make decisions regarding your activities.
 
@@ -27,7 +20,10 @@ If you are a CBT top looking for ideas, check out <a href="http://passionandsoul
 
 **Group sex, public sex, bathhouses, sex parties, back rooms and orgies**: Depending on the local scene, this could be a good or bad experience for you and your fuck buddy. Different gay spaces can be anywhere from welcoming to dangerous for trans men. You should ask around to take the temperature if you want to bring him somewhere.Call or email the venue to see if they have any policies on the matter. If you live in a reasonably-sized city where you frequent locations and events such as these but you don't see trans men there, you should think _why_ that is the case. There is probably a reason! It might help if he has ID with his male name and sex marker. He might know other trans gay/bi/pan guys who can give him the lay of the land, if he doesn't already know. When bringing a trans guy into a new environment, you'd be a good buddy to keep your eyes open for him in case someone feels offended by his labia or whatever it is that makes cis guys afraid of us.
 
-<figure id="attachment_853" aria-describedby="caption-attachment-853" style="width: 496px" class="wp-caption aligncenter"><a href="http://ftmporn.com/post/40873026067/tattooed-and-screwed"><img class="alignnone size-full wp-image-853" src="http://localhost:8888/wordpress/wp-content/uploads/2016/02/tattooed-and-screwed.png" alt="Tattooed and Screwed" width="496" height="249" srcset="http://localhost:8888/wordpress/wp-content/uploads/2016/02/tattooed-and-screwed.png 496w, http://localhost:8888/wordpress/wp-content/uploads/2016/02/tattooed-and-screwed-300x151.png 300w" sizes="(max-width: 496px) 100vw, 496px" /></a><figcaption id="caption-attachment-853" class="wp-caption-text">Tatooed and screwed [<a href="http://ftmporn.com/post/40873026067/tattooed-and-screwed">watch video</a>]</figcaption></figure>**Chastity**: There are chastity devices designed for female bodies, although because of anatomical differences they lack the deviousness of some of the penis-based ones. Trans guys with relatively large cocks, or who've had surgery, might be able to make something, or have something custom made though.
+~~there was a picture here~~
+<!-- Tatooed and screwed [<a href="http://ftmporn.com/post/40873026067/tattooed-and-screwed">watch video</a>] -->
+
+**Chastity**: There are chastity devices designed for female bodies, although because of anatomical differences they lack the deviousness of some of the penis-based ones. Trans guys with relatively large cocks, or who've had surgery, might be able to make something, or have something custom made though.
 
 **Gender play**: If you enjoy some kind of gender bending in your sex life, you should mention it to your partner before pulling it out, to avoid tripping on a landmine and accidentally upsetting him. He might be totally down for it, but you should check first just to be safe.
 
@@ -35,9 +31,16 @@ If you are a CBT top looking for ideas, check out <a href="http://passionandsoul
 
 **Fisting, handballing, other large insertions****: ** As bottoms, an FTM can learn to take a hand or an arm in the ass as easily as any other man, which is to say some can and do and some can't and/or don't. Some trans men can take a hand or two in the front hole. Since that hole is a closed pouch rather than an endless tube, there is a limit to the depth of insertions. Some can do neither, or both, or both at the same time! As tops, FTMs tend to have smaller hands, which some bottoms appreciate.
 
-<figure id="attachment_852" aria-describedby="caption-attachment-852" style="width: 389px" class="wp-caption aligncenter"><a href="http://www.xtube.com/video-watch/Fucking-and-fisting-ftm-boyfriend-s-front-hole-19729032"><img class="alignnone size-full wp-image-852" src="http://localhost:8888/wordpress/wp-content/uploads/2016/02/fucking-and-fisting-ftm-boyfriend-s-front-hole.png" alt="Fucking-and-fisting-ftm-boyfriend-s-front-hole" width="389" height="428" srcset="http://localhost:8888/wordpress/wp-content/uploads/2016/02/fucking-and-fisting-ftm-boyfriend-s-front-hole.png 389w, http://localhost:8888/wordpress/wp-content/uploads/2016/02/fucking-and-fisting-ftm-boyfriend-s-front-hole-273x300.png 273w" sizes="(max-width: 389px) 100vw, 389px" /></a><figcaption id="caption-attachment-852" class="wp-caption-text">Fucking and finsting my boyfriend's front hole [[watch video](http://www.xtube.com/video-watch/Fucking-and-fisting-ftm-boyfriend-s-front-hole-19729032)]</figcaption></figure>**Watersports:** On the receiving end I don't think anything should be different, but many trans men haven't had surgery to be able to pee through a flesh tunnel (although some have). There are two ways trans men use to pee if they have their original plumbing. Some use only one and others use both:
+~~there was a picture here~~
+<!-- Fucking and finsting my boyfriend's front hole [[watch video](http://www.xtube.com/video-watch/Fucking-and-fisting-ftm-boyfriend-s-front-hole-19729032)] -->
+
+
+**Watersports:** On the receiving end I don't think anything should be different, but many trans men haven't had surgery to be able to pee through a flesh tunnel (although some have). There are two ways trans men use to pee if they have their original plumbing. Some use only one and others use both:
 
   * Sit on the toilet like we learned when we were toilet training
   * Use some sort of "stand to pee" device, which can be homemade, [purchased cheaply](http://www.ftmessentials.com/collections/stp-devices) or you can drop some cash and get a [really realistic one](http://transthetics.com/shop/)
 
-<figure id="attachment_850" aria-describedby="caption-attachment-850" style="width: 194px" class="wp-caption aligncenter"><a href="http://www.pornhub.com/view_video.php?viewkey=ph56c275dc363ff"><img class="alignnone size-full wp-image-850" src="http://localhost:8888/wordpress/wp-content/uploads/2016/02/transboy-pisses-with-fake-dick.png" alt="TRANSBOY PISSES WITH FAKE DICK" width="194" height="306" srcset="http://localhost:8888/wordpress/wp-content/uploads/2016/02/transboy-pisses-with-fake-dick.png 194w, http://localhost:8888/wordpress/wp-content/uploads/2016/02/transboy-pisses-with-fake-dick-190x300.png 190w" sizes="(max-width: 194px) 100vw, 194px" /></a><figcaption id="caption-attachment-850" class="wp-caption-text">Transboy pisses with fake dick [<a href="http://www.pornhub.com/view_video.php?viewkey=ph56c275dc363ff">watch video</a>]</figcaption></figure>If you want a trans guy to piss on you or in you, he can do so with the aid of a device, or without. Without a device we will probably stand over you. You may apply your mouth directly over the urethra, whose location is variable between the front hole and the clit. There is also a technique that involves pulling the labia and pissing really hard which reportedly directs urine in a stream away from the body, but I have not mastered this. One way or another I suggest the bathtub.
+~~there was a picture here~~
+  <!-- Transboy pisses with fake dick [<a href="http://www.pornhub.com/view_video.php?viewkey=ph56c275dc363ff">watch video</a>] -->
+
+If you want a trans guy to piss on you or in you, he can do so with the aid of a device, or without. Without a device we will probably stand over you. You may apply your mouth directly over the urethra, whose location is variable between the front hole and the clit. There is also a technique that involves pulling the labia and pissing really hard which reportedly directs urine in a stream away from the body, but I have not mastered this. One way or another I suggest the bathtub.
