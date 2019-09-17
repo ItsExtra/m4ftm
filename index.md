@@ -31,3 +31,31 @@ m4ftm.com in beta
       / _ \| '_ \  | | __| |                                   
      | (_) | | | | | | |_|_|                                   
       \___/|_| |_| |_|\__(_)     
+
+
+      {{ page.content }}  - un-rendered content
+      {{ page.title }}
+      {{ page.excerpt }}  - un-rendered excerpt
+      {{ page.url }}
+      {{ page.date }}
+      {{ page.id }}       - unique id for RSS feeds
+      {{ page.categories }}
+      {{ page.tags }}
+      {{ page.path }}
+      {{ page.dir }}
+      {{ page.excerpt | remove: '<p>' | remove: '</p>' }}
+      {{ page.excerpt | strip_html }}
+
+------
+
+{{ site.time }}
+
+site.time 	Current time
+site.pages 	List of pages
+site.posts 	List of blog posts
+site.related_posts 	List of posts related to current
+site.categories.CATEGORY 	List
+site.tags.TAG 	List
+site.static_files 	List
+
+  {{ page.title }}
