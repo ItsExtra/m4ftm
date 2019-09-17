@@ -1,4 +1,20 @@
-# Genderqueers and others
+---
+published: true
+date: 2019-09-09T09:09:09+00:00
+author: Jack
+layout: page
+title: Genderqueer, non binary and other trans* people
+permalink: /basics/genderqueer-nonbinary.html
+categories: ['m4ftm', 'gay']
+tags: ['m4ftm', 'gay']
+excerpt_separator: <!--more-->
+---
+
+If this page has a description, it would be here.
+
+<!--more-->
+
+# Genderqueer, non binary and other trans* people
 
 There are people who are ostensibly trans men—they were born female and then [transitioned](http://m4ftm.com/basics/what-is-transition/)— who have different identities than just "male". They may identify themselves as genderqueer (GQ), bi gender, two spirited, genderfluid or any number of other terms. For the purposes of this website, I'm not going to get too much into this  subject. There are lots of resources on the internet about these identities. Some random googling found [Genderqueer and Non-Binary Identities & Terminology](http://genderqueerid.com/gq-terms) as an intro and I'll leave you to your resources to find more.
 

@@ -1,3 +1,15 @@
+---
+published: false
+date: 2019-09-09T09:09:09+00:00
+author: Jack
+layout: page
+title: M4FTM
+permalink: /.html
+categories: ['m4ftm', 'gay']
+tags: ['m4ftm', 'gay']
+excerpt_separator: <!--more-->
+---
+
 # Talking dirty with a trans guy (draft)
 
 Communication is an important part of good sex. It's especially important when dealing with trans folks, because many of us have unusual relationships with our bodies. Making assumptions isn't a good idea about some things in particular. TO make sure everyone has a good time, here are some hints.

@@ -1,14 +1,15 @@
 ---
-id: 928
-title: Ask a question
-date: 2016-02-22T22:38:52+00:00
-author: jack
-excerpt: |
+published: false
+date: 2019-09-09T09:09:09+00:00
+author: Jack
 layout: page
-guid: https://m4ftm.com/?page_id=928
-geo_public:
-  - "0"
+title: M4FTM
+permalink: /.html
+categories: ['m4ftm', 'gay']
+tags: ['m4ftm', 'gay']
+excerpt_separator: <!--more-->
 ---
+
 **Have a question? Ask it here and I will answer it!**
 
 Previous questions can be read [here](http://m4ftm.com/category/questions-from-gay-men/).

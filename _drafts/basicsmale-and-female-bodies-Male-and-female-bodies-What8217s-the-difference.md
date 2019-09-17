@@ -1,14 +1,15 @@
 ---
-id: 6
-title: 'Male and female bodies: What's the difference?'
-date: 2016-02-21T22:42:35+00:00
-author: jack
-excerpt: |
+published: false
+date: 2019-09-09T09:09:09+00:00
+author: Jack
 layout: page
-guid: https://m4ftm.com/?page_id=4
-geo_public:
-  - "0"
+title: M4FTM
+permalink: /.html
+categories: ['m4ftm', 'gay']
+tags: ['m4ftm', 'gay']
+excerpt_separator: <!--more-->
 ---
+
 **How we all began**
 
 All fetuses start out with the same anatomy, but at [7 weeks](https://en.wikipedia.org/wiki/Sexual_differentiation_in_humans), changes in anatomy start happening which lead most people to have what we think of as male and female bodies.

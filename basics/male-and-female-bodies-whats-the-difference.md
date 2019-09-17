@@ -1,3 +1,19 @@
+---
+published: true
+date: 2019-09-09T09:09:09+00:00
+author: Jack
+layout: page
+title: Male and female bodies: What's the difference?
+permalink: /basics/male-and-female-bodies-whats-the-difference.html
+categories: ['m4ftm', 'gay']
+tags: ['m4ftm', 'gay']
+excerpt_separator: <!--more-->
+---
+
+If this page has a description, it would be here. 
+
+<!--more-->
+
 # Male and female bodies: What's the difference?
 
 ## How we all began

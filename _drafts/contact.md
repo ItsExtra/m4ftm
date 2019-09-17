@@ -1,10 +1,13 @@
 ---
-id: 1218
-title: Contact
-date: 2017-03-17T17:01:02+00:00
-author: jack
-excerpt: |
+published: false
+date: 2019-09-09T09:09:09+00:00
+author: Jack
 layout: page
-guid: http://m4ftm.com/?page_id=1218
+title: M4FTM
+permalink: /.html
+categories: ['m4ftm', 'gay']
+tags: ['m4ftm', 'gay']
+excerpt_separator: <!--more-->
 ---
+
 [contact-form-7 id="1217&#8243; title="Contact form 1&#8243;]
