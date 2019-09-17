@@ -1,35 +1,22 @@
----
-id: 938
-title: 'Q: What if I say something wrong?'
-date: 2016-02-22T22:23:59+00:00
-author: jack
-excerpt: |
-layout: post
-guid: https://m4ftm.com/?p=938
-permalink: /2016/02/22/q-what-if-i-say-something-wrong/
-geo_public:
-  - "0"
-categories:
-  - Questions from gay men
-  - Uncategorized
----
+# What if I say something wrong?'
+
 Here are some tips for getting along with trans people you fuck.
 
-**Privacy**
+## Privacy
 
 Having control over who knows a person is trans is very important to some of us. There are many reasons for this, but at the end of the day a person’s health information is private. Some ways you could accidentally upset someone:
 
   * Referring to someone as “my trans friend” or something like that
-  * Revealing a past name to someone who didn’t know it (this is called <a href="http://www.urbandictionary.com/define.php?term=deadname" target="_blank" rel="noopener noreferrer">deadnaming</a>)
+  * Revealing a past name to someone who didn’t know it (this is called <a href="http://www.urbandictionary.com/define.php?term=deadname">deadnaming</a>)
   * Telling all your friends you dated or hooked up with a trans guy, who they will later meet and be able to figure it out
 
 If you think you might need to tell anyone, including your boyfriend or your BFF, about a trans person’s status for any reason (even if it’s just to tell them how goddamned smokin hot the sex was), you should mention it to him and find out what his boundaries are. He will probably understand that you just can’t keep quiet, but might ask that you keep the information away from certain people or groups, like someone who is connected to their job, or who is shitty some how. Or he might not care. Some trans people are completely open about their health history.
 
-**But don’t go into the closet yourself**
+## But don’t go into the closet yourself
 
 And don’t drag him in there with you. If you are seeing someone who is known in your social circles to be trans, don’t be embarrassed about it. Don’t hide that fact. It is a real bummer to feel like you are a shameful secret. It’s like straight men who date big women but don’t want their friends to know, Its just shitty. Man up.
 
-**The gay closet vs trans privacy**
+## The gay closet vs trans privacy
 
 Being “out” about being trans is different than being “out” about being gay. Being out as gay is about your social, economic, familial, sexual and political relationships. These art part of a person’s public life, their place in the collective, which are difficult and uncomfortable to separate.
 
@@ -37,7 +24,7 @@ Being trans though, is a private thing. It is about how we relate to ourselves, 
 
 Some people are “out” in some parts of their life but not others. If you don’t know for a fact that a trans person is comfortable with their status known but someone else, don’t share.
 
-**Things you shouldn’t say or ask**
+## Things you shouldn’t say or ask
 
 Here are some things that most trans people will find rude or icky. If you need more explanation, see GLAAD’s [Tips for allies of transgender people](http://www.glaad.org/transgender/allies).
 
@@ -56,14 +43,14 @@ Here are some things that most trans people will find rude or icky. If you need 
 
 If you aren’t sure if something is OK to ask or say, try to think of another thing that would be the same level of intrusiveness, intimacy on another issue. If you just met someone you know to be trans and are curious about their medical history or surgical status, imagine if you just met someone you know has children. Do you ask them how the birth went? Was it vaginal or C-section? Was an epidural used? What the copulation passionate or perfunctory? Unless you are in a situation where that’s topical, like a new mother’s group, or someone you are already really close with, it would be considered rude. So if you are on a hookup site, you can ask about someone’s body, because everyone is asking each other about their bodies. But if you are at your niece’s 5th birthday party and a trans neighbour comes by for a piece of cake, you’ll just have hold your questions.
 
-**If you make a mistake**
+## If you make a mistake
 
-Nobody’s perfect. I have mispronounced (using “she” instead of “he” when for some reason referring to myself in the third person) _myself _out of habit. Just apologize, move on and don't do it again.
+Nobody’s perfect. I have mispronouned (using “she” instead of “he” when for some reason referring to myself in the third person) _myself_ out of habit. Just apologize, move on and don't do it again.
 
-**The word tranny**
+## The word tranny
 
 Tranny is a word you should not use. Some people have reclaimed it, but just like you probably don’t like being called faggot by straight people, you shouldn’t use reclaimed words if you are not a member of the target group. Also, it is a word that has historically been used to describe trans women, often in the context of extreme violence, so if you ask me, trans men have no business “reclaiming” it. Unless you are a trans woman you should wash the word from your vocabulary.
 
-**Conclusion**
+## Conclusion
 
 Trans men and other trans people are just people and we want to be treated the same way other people are.

@@ -1,12 +1,5 @@
----
-id: 483
-title: Bottoming to a trans guy 101
-date: 2016-02-22T01:46:48+00:00
-author: jack
-excerpt: |
-layout: page
-guid: https://m4ftm.com/?page_id=483
----
+# Bottoming to a trans guy 101
+
 Lots of trans men enjoy topping.
 
 Some guys might have had some sort of surgery which allows them to put their dick into your hungry hole. For those who don't, there are all kinds of ways for them to fuck you:
@@ -16,7 +9,3 @@ Some guys might have had some sort of surgery which allows them to put their dic
   * [Jerking off a trans guy's cock](http://m4ftm.com/hooking-up/jerking-off-a-trans-guy/)
 
 Other than that, he can use fingers and hands (gloves are always a good idea) or other objects to open you up. He might also like a rim job.
-
-&nbsp;
-
-&nbsp;

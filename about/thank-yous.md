@@ -1,12 +1,5 @@
----
-id: 1183
-title: Thank yous
-date: 2016-03-05T05:50:14+00:00
-author: jack
-excerpt: |
-layout: page
-guid: https://m4ftm.com/thank-yous/
----
+# Thank yous
+
 Lots of helpful feedback has been received in the creation of this site. Not everyone has given me permission to name them, but here are the ones who have.
 
 Nancay, on [PlantRomeo.com](http://PlantRomeo.com) as virwolf

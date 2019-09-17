@@ -13,7 +13,7 @@ geo_public:
 
 All fetuses start out with the same anatomy, but at [7 weeks](https://en.wikipedia.org/wiki/Sexual_differentiation_in_humans), changes in anatomy start happening which lead most people to have what we think of as male and female bodies.
 
-It's important to note that an [estimated](http://www.isna.org/faq/frequency) 1% of people have &#8220;bodies [that] differ from standard male or female,&#8221; and 1 in 1,666 people do not have XX (generally associated with females) or XY (thought of as male) chromosomes. Many people who have other chromosome combinations don't even know it, and may be surprised to find this out when they undergo genetic testing for some other reason. I am going to use the terms &#8220;male&#8221; and &#8220;female&#8221; here to describe the 99% of people who have bodies that meet the common definitions.
+It's important to note that an [estimated](http://www.isna.org/faq/frequency) 1% of people have "bodies [that] differ from standard male or female," and 1 in 1,666 people do not have XX (generally associated with females) or XY (thought of as male) chromosomes. Many people who have other chromosome combinations don't even know it, and may be surprised to find this out when they undergo genetic testing for some other reason. I am going to use the terms "male" and "female" here to describe the 99% of people who have bodies that meet the common definitions.
 
 Male and female bodies are not as different as you may think. Everyone has basically the same structures, but they develop differently.
 

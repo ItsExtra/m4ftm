@@ -1,17 +1,8 @@
----
-id: 1011
-title: ISO collaboaration and feedback
-date: 2016-02-23T05:00:13+00:00
-author: jack
-excerpt: |
-layout: page
-guid: https://m4ftm.com/?page_id=1011
-geo_public:
-  - "0"
----
+# ISO collaboaration and feedback
+
 I am seeking collaborators on this project. This can be either locally (I'm in Toronto, Canada) or further away. I am open to a variety of levels of engagement from proof-reader to co-admin.
 
-In particular some &#8220;peer review&#8221; would be helpful regarding the content. I tried my best to include all the main kinds of sex I have seen mentioned on websites and apps, but some of them I am much less familiar with that others, so I just did my best. If you have insight into any of the following, which I'm especially weak on, I'd love to hear from you:
+In particular some "peer review" would be helpful regarding the content. I tried my best to include all the main kinds of sex I have seen mentioned on websites and apps, but some of them I am much less familiar with that others, so I just did my best. If you have insight into any of the following, which I'm especially weak on, I'd love to hear from you:
 
   * [Topping](http://m4ftm.com/hooking-up/bottoming-to-a-trans-guy/) _as_ a trans man, especially [strap ons](http://m4ftm.com/hooking-up/getting-fucked-in-the-ass-by-a-trans-man/) and [bjs](http://m4ftm.com/hooking-up/sucking-a-trans-mans-dick/)
   * Bottoming _to_ a trans man in any capacity

@@ -1,35 +1,28 @@
----
-id: 593
-title: _The Basics
-date: 2016-02-22T03:51:30+00:00
-author: jack
-excerpt: |
-layout: page
-guid: https://m4ftm.com/?page_id=593
----
-##### What is an FTM?
+# Trans man basics
 
-FTM stands for &#8220;female to male&#8221; and is a common term on hookup sites and apps to describe a person who was (usually) raised as a girl because of having female body parts, but at some point in life decided to [transition](http://m4ftm.com/what-is-transition/) to male.
+## What is an FTM?
+
+FTM stands for "female to male" and is a common term on hookup sites and apps to describe a person who was (usually) raised as a girl because of having female body parts, but at some point in life decided to [transition](http://m4ftm.com/what-is-transition/) to male.
 
 Others terms you might see used are things like tboy, f2m, trans guy/man/boy.
 
-##### What is transition?
+## What is transition?
 
 We use the term _transition_ to describe a decision to stop living as one gender and switch to another one. For any trans person, transition can include any combination of the following:
 
   * Changing name, legally or not
   * Changing our legal gender on government documents (not possible for all people in all places)
   * Dressing, grooming, styling hair etc in the style that presents us the way we want
-  * Asking people we know to use the right pronouns (eg switching from &#8220;she&#8221; to &#8220;he&#8221;)
+  * Asking people we know to use the right pronouns (eg switching from "she" to "he")
   * Changing voice, tone, manner of speaking to better reflect personality
   * Seek out roles in family, work and community which reflect the desired gender
   * Medical treatments and procedures
 
-**Body modifications**
+## Body modifications
 
 Many trans people have some some sort of medical intervention to help them look and feel better in their bodies. Not all people have or want to have the same things done, for all kinds of reasons: price, safety, uncertainty of results, and because not all of us desire to have exactly the same kind of body. Like all people, we have different feelings about our bodies. A feature of one trans person's body that causes them lots of distress (a feeling called _dysphoria_) could be something another one loves about themselves.
 
-**The big T**
+## The big T
 
 Taking testosterone is the #1 most common intervention trans men seek out. Most trans men are on, have been on, or will be on it. (Some people cannot take it, or have to stop taking it, for medical reasons.) Testosterone is a cheap, easy, well-understood, safe and fairly fool-proof way  to completely change the way we look, sound, feel, taste and smell.
 
@@ -49,9 +42,9 @@ T does to the female body pretty much the same thing as it does to the male body
   * Skin and hair texture change to be rougher with more prominent veins
   * Acne
 
-After 6 months to 2 years on T, most trans men &#8220;pass&#8221; 100%. That means we look exactly like any other man. Other than tending to be short, there is no way to tell if a man you see on the street is trans or not.
+After 6 months to 2 years on T, most trans men "pass" 100%. That means we look exactly like any other man. Other than tending to be short, there is no way to tell if a man you see on the street is trans or not.
 
-**Sex changes**
+## Sex changes
 
 When starting on T, sex drive goes _way_ up, especially at the beginning (you remember what being a teenager was like!). Some people find that their sexuality changes significantly when starting on hormones. Changes in who they are attracted to, what activities they want or enjoy, how their bodies feel and what turns them on are common. And of course, the psychological effect of feeling better in their body can also have a huge effect.
 
@@ -65,23 +58,23 @@ T affects the physical structures of our genitals. The extent of these changes i
   * More hair
   * Darker colour
 
-**Have you had the surgery? **
+## Have you had the surgery? 
 
-When a lot of people hear &#8220;trans,&#8221; what they first think of is &#8220;sex change surgery.&#8221; That term is outdated and now called &#8220;gender reassignment&#8221; or (even more modern) &#8220;gender confirmation&#8221; surgery.
+When some people hear "trans", what they first think of is "sex change surgery." That term is outdated and now called "gender reassignment" or (even more modern) "gender confirmation" surgery.
 
-While the most obvious kind of surgery is performed on the genitals, a lot of trans men choose not to have this done, or are not able to access it if they do want it. There is in fact no such thing as &#8220;the surgery&#8221; for either trans men or trans women.
+While the most obvious kind of surgery is performed on the genitals, a lot of trans men choose not to have this done, or are not able to access it if they do want it. There is in fact no such thing as "the surgery" for either trans men or trans women.
 
-You have probably heard the term &#8220;pre op&#8221; to describe a trans person who has not had any surgical procedures, and &#8220;post op&#8221; to describe one that has. These terms aren't very useful though. &#8220;Pre op&#8221; assumes that someone is going to have surgery some day, which may or may not be the case. &#8220;Post op&#8221; just isn't very descriptive. As you will see, there are various different procedures, which can be performed in different combinations and orders.
+You have probably heard the term "pre op" to describe a trans person who has not had any surgical procedures, and "post op" to describe one that has. These terms aren't very useful though. "Pre op" assumes that someone is going to have surgery some day, which may or may not be the case. "Post op" just isn't very descriptive. As you will see, there are various different procedures, which can be performed in different combinations and orders.
 
-**Top surgery**
+## Top surgery
 
 _Top surgery_ is what we call removing, reducing, and reshaping the tissue of our chests. There are various techniques depending on the body shape and individual's desires and priorities. Top surgery is probably the most common surgical procedure for trans guys, and the goal is to change the shape of the chest to be more typically male. Here's a picture of someone who has had top surgery and taken T:
 
-<figure id="attachment_177" aria-describedby="caption-attachment-177" style="width: 497px" class="wp-caption aligncenter"><img class="alignnone size-full wp-image-177" src="http://localhost:8888/wordpress/wp-content/uploads/2016/02/2014-05-24-2.png" alt="Picture of a chest" width="497" height="450" srcset="http://localhost:8888/wordpress/wp-content/uploads/2016/02/2014-05-24-2.png 497w, http://localhost:8888/wordpress/wp-content/uploads/2016/02/2014-05-24-2-300x272.png 300w" sizes="(max-width: 497px) 100vw, 497px" /><figcaption id="caption-attachment-177" class="wp-caption-text">Source: [Geek By Nature](https://geekbynature.wordpress.com/2014/05/24/6-years-7-months-day-2408-a-beginning/)</figcaption></figure>
+~~there was a picture here~~
 
 One thing you should know about top surgery is that it can reduce or even eliminate nipple sensation. If nipple play is important to you, you can ask about this.
 
-**Bottom Surgery**
+## Bottom Surgery
 
 Other than top surgery, a trans man may have had some sort of _bottom surgery_ also. This could be an internal procedure (hysterectomy or removal of the ovaries) that you wouldn't notice, and/or some sort of genital reconstruction.
 
