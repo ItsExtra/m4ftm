@@ -10,20 +10,24 @@ tags: ['m4ftm', 'gay']
 excerpt_separator: <!--more-->
 ---
 
-We use the term _transition_ to describe a decision to stop living as one gender and switch to another one. For any trans person, transition can include any combination of the following:
+m4ftm.com in beta
 
 <!--more-->
 
 
-
-  * Changing name, legally or not
-  * Changing our legal gender on government documents (not possible for all people in all places)
-  * Dressing, grooming, styling hair etc in the style that presents us the way we want
-  * Asking people we know to use the right pronouns (eg switching from "she" to "he")
-  * Changing voice, tone, manner of speaking to better reflect personality
-  * Seek out roles in family, work and community which reflect the desired gender
-  * Medical treatments and procedures
-
-## Body modifications
-
-Many trans people have some some sort of medical intervention to help them look and feel better in their bodies. Not all people have or want to have the same things done, for all kinds of reasons: price, safety, uncertainty of results, and because not all of us desire to have exactly the same kind of body. Like all people, we have different feelings about our bodies. A feature of one trans person's body that causes them lots of distress (a feeling called _dysphoria_) could be something another one loves about themselves.
+      __  __ _  _   ______ _______ __  __                      
+     |  \/  | || | |  ____|__   __|  \/  |   m4ftm.com in beta                  
+     | \  / | || |_| |__     | |  | \  / |  ___ ___  _ __ ___  
+     | |\/| |__   _|  __|    | |  | |\/| | / __/ _ \| '_ ` _ \
+     | |  | |  | | | |       | |  | |  | || (_| (_) | | | | | |
+     |_|  |_|  |_|_|_|     _ |_|_ |_|  |_(_)___\___/|_| |_| |_|
+     \ \        / /       | |  (_)                             
+      \ \  /\  / /__  _ __| | ___ _ __   __ _                  
+       \ \/  \/ / _ \| '__| |/ / | '_ \ / _` |                 
+        \  /\  / (_) | |  |   <| | | | | (_| |                 
+         \/  \/ \___/|_|  |_|\_\_|_| |_|\__, |                 
+                   (_) | | |             __/ |                 
+       ___  _ __    _| |_| |            |___/                  
+      / _ \| '_ \  | | __| |                                   
+     | (_) | | | | | | |_|_|                                   
+      \___/|_| |_| |_|\__(_)     
