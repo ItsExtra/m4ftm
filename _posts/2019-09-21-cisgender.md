@@ -5,7 +5,7 @@ author: Jack
 post_excerpt: ""
 layout: post
 permalink: >
-  https://eggplant.m4ftm.com/wp/uncategorized/cisgender/
+  https://eggplant.m4ftm.com/wp/vocabulary/cisgender/
 published: true
 post_date: 2019-09-21 23:23:21
 ---
