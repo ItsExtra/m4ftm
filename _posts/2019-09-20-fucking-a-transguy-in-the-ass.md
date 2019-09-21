@@ -1,11 +1,11 @@
 ---
 ID: 47
-post_title: Talking dirty with a trans guy (draft)
+post_title: Fucking a transguy in the ass
 author: Jack
 post_excerpt: ""
 layout: post
 permalink: >
-  https://eggplant.m4ftm.com/wp/blog/2019/09/20/talking-dirty-with-a-trans-guy-draft/
+  https://eggplant.m4ftm.com/wp/hooking-up/fucking-a-transguy-in-the-ass/
 published: true
 post_date: 2019-09-20 04:43:24
 ---
