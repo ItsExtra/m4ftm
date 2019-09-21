@@ -23,6 +23,16 @@ post_date: 2019-09-21 19:30:51
 <p>Others terms you might see used are things like tboy, f2m, trans guy/man/boy.</p>
 <!-- /wp:paragraph -->
 
+<!-- wp:embed {"url":"https://www.urbandictionary.com/define.php?term=FTM"} -->
+<figure class="wp-block-embed"><div class="wp-block-embed__wrapper">
+https://www.urbandictionary.com/define.php?term=FTM
+</div></figure>
+<!-- /wp:embed -->
+
+<!-- wp:quote -->
+<blockquote class="wp-block-quote"><p>A <strong>trans man</strong> (sometimes <strong>trans-man</strong> or <strong>transman</strong>) is a man who was <a href="https://en.wikipedia.org/wiki/Assigned_female_at_birth">assigned female at birth</a>. The label of transgender man is not always interchangeable with that of <a href="https://en.wikipedia.org/wiki/Transsexual">transsexual</a> man, although the two labels are often used in this way. <em>Transgender</em> is an <a href="https://en.wikipedia.org/wiki/Umbrella_term">umbrella term</a>  that includes different types of gender variant people (including  transsexual people). Many trans men choose to undergo surgical or  hormonal transition, or both (see <a href="https://en.wikipedia.org/wiki/Sex_reassignment_therapy">sex reassignment therapy</a>), to alter their appearance in a way that aligns with their gender identity or alleviates <a href="https://en.wikipedia.org/wiki/Gender_dysphoria">gender dysphoria</a>.<sup><a href="https://en.wikipedia.org/wiki/Trans_man#cite_note-1">[1]</a></sup></p><cite>Wikipedia: <a href="https://en.wikipedia.org/wiki/Trans_man">Trans man</a></cite></blockquote>
+<!-- /wp:quote -->
+
 <!-- wp:heading -->
 <h2 id="mcetoc_1dl0ct9d83">What is transition?</h2>
 <!-- /wp:heading -->
