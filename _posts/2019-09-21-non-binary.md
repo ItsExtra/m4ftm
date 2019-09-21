@@ -5,7 +5,7 @@ author: Jack
 post_excerpt: ""
 layout: post
 permalink: >
-  https://eggplant.m4ftm.com/wp/uncategorized/non-binary/
+  https://eggplant.m4ftm.com/wp/vocabulary/non-binary/
 published: true
 post_date: 2019-09-21 23:31:06
 ---
