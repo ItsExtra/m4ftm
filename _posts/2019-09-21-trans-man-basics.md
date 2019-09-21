@@ -12,7 +12,7 @@ post_date: 2019-09-21 19:30:51
 <!-- wp:luckywp/tableofcontents /-->
 
 <!-- wp:heading -->
-<h2 id="mcetoc_1dl0ctr8ba">What is an FTM?</h2>
+<h2 id="mcetoc_1dl0ctr8ba">What does FTM mean?</h2>
 <!-- /wp:heading -->
 
 <!-- wp:paragraph -->
@@ -22,12 +22,6 @@ post_date: 2019-09-21 19:30:51
 <!-- wp:paragraph -->
 <p>Others terms you might see used are things like tboy, f2m, trans guy/man/boy.</p>
 <!-- /wp:paragraph -->
-
-<!-- wp:embed {"url":"https://www.urbandictionary.com/define.php?term=FTM"} -->
-<figure class="wp-block-embed"><div class="wp-block-embed__wrapper">
-https://www.urbandictionary.com/define.php?term=FTM
-</div></figure>
-<!-- /wp:embed -->
 
 <!-- wp:quote -->
 <blockquote class="wp-block-quote"><p>A <strong>trans man</strong> (sometimes <strong>trans-man</strong> or <strong>transman</strong>) is a man who was <a href="https://en.wikipedia.org/wiki/Assigned_female_at_birth">assigned female at birth</a>. The label of transgender man is not always interchangeable with that of <a href="https://en.wikipedia.org/wiki/Transsexual">transsexual</a> man, although the two labels are often used in this way. <em>Transgender</em> is an <a href="https://en.wikipedia.org/wiki/Umbrella_term">umbrella term</a>  that includes different types of gender variant people (including  transsexual people). Many trans men choose to undergo surgical or  hormonal transition, or both (see <a href="https://en.wikipedia.org/wiki/Sex_reassignment_therapy">sex reassignment therapy</a>), to alter their appearance in a way that aligns with their gender identity or alleviates <a href="https://en.wikipedia.org/wiki/Gender_dysphoria">gender dysphoria</a>.<sup><a href="https://en.wikipedia.org/wiki/Trans_man#cite_note-1">[1]</a></sup></p><cite>Wikipedia: <a href="https://en.wikipedia.org/wiki/Trans_man">Trans man</a></cite></blockquote>
@@ -42,7 +36,7 @@ https://www.urbandictionary.com/define.php?term=FTM
 <!-- /wp:paragraph -->
 
 <!-- wp:list -->
-<ul><li>Changing name, legally or&nbsp;not</li><li>Changing our legal gender on government documents (not possible for all people in all places)</li><li>Dressing, grooming, styling hair etc in the style that presents us the way we want</li><li>Asking people we know to use the right pronouns (eg switching from "she" to "he")</li><li>Changing voice, tone, manner of speaking to better reflect personality</li><li>Seek out roles in family, work and community which reflect the desired gender</li><li>Medical treatments and procedures</li></ul>
+<ul><li>Changing the name they call themselves and asking others to do the same</li><li>Changing name on government and other documents</li><li>Changing our legal gender on government documents (not possible for all people in all places)</li><li>Dressing, grooming, styling hair etc in the style that presents us the way we want</li><li>Notifying people of our preferred pronouns</li><li>Changing voice, tone, manner of speaking to better reflect personality and identity</li><li>Seek out roles in family, work and community which reflect the desired gender</li><li>Medical treatments and procedures (see below)</li></ul>
 <!-- /wp:list -->
 
 <!-- wp:heading -->
@@ -50,8 +44,16 @@ https://www.urbandictionary.com/define.php?term=FTM
 <!-- /wp:heading -->
 
 <!-- wp:paragraph -->
-<p>Many trans people have some some sort of medical intervention to help them look and feel better in their bodies. Not all people have or want to have the same things done, for all kinds of reasons: price, safety, uncertainty of results, and because not all of us desire to have exactly the same kind of body. Like all people, we have different feelings about our bodies. A feature of one trans person's body that causes them lots of distress (a feeling called&nbsp;<em>dysphoria</em>) could be something another one loves about themselves.</p>
+<p>Many trans people have some some sort of medical intervention to help them look and feel better in their bodies. Not all people have or want to have the same things done, for all kinds of reasons: price, safety, uncertainty of results, and because not all of us desire to have exactly the same kind of body. Like all people, we have different feelings about our bodies. A feature of one trans person's body that causes them lots of distress (a feeling called <em>dysphoria</em>) could be something another one loves about themselves.</p>
 <!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Examples of body modifications which may be associated with transition:</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:list -->
+<ul><li>Surgery to remove excess tissue on the chest</li><li></li></ul>
+<!-- /wp:list -->
 
 <!-- wp:heading -->
 <h2 id="mcetoc_1dl0ct9d85">The big T</h2>
