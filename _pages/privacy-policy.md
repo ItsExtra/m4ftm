@@ -121,6 +121,6 @@ post_date: 2019-09-21 18:26:48
 <h2>Your contact information</h2>
 <!-- /wp:heading -->
 
-<!-- wp:heading -->
-<h2></h2>
-<!-- /wp:heading -->
+<!-- wp:paragraph -->
+<p><a href="https://eggplant.m4ftm.com/wp/contact/">Please see the Contact page.</a></p>
+<!-- /wp:paragraph -->
