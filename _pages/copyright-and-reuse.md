@@ -12,7 +12,7 @@ post_date: 2019-09-21 04:02:35
 <div id="deed-head" class="row">
 <div id="deed-license">
 
-  <img class="alignnone size-medium wp-image-102" src="https://eggplant.m4ftm.com/wp/wp-content/uploads/2019/09/Creative-Commons-CC-Attribution-NonCommercial-ShareAlike-4.0-International-CC-BY-NC-SA-4.0--300x71.png" alt="" width="300" height="71" /> <img class="alignnone size-medium wp-image-103" src="https://eggplant.m4ftm.com/wp/wp-content/uploads/2019/09/attribution_icon_white_x2-1.png" alt="" width="124" height="124" /> <img class="alignnone size-medium wp-image-104" src="https://eggplant.m4ftm.com/wp/wp-content/uploads/2019/09/cc_icon_white_x2.png" alt="" width="124" height="124" /> <img class="alignnone size-medium wp-image-105" src="https://eggplant.m4ftm.com/wp/wp-content/uploads/2019/09/nc_white_x2.png" alt="" width="125" height="125" /> <img class="alignnone size-medium wp-image-106" src="https://eggplant.m4ftm.com/wp/wp-content/uploads/2019/09/sa_white_x2.png" alt="" width="125" height="125" />
+<img class="size-medium wp-image-102 aligncenter" src="https://eggplant.m4ftm.com/wp/wp-content/uploads/2019/09/Creative-Commons-CC-Attribution-NonCommercial-ShareAlike-4.0-International-CC-BY-NC-SA-4.0--300x71.png" alt="" width="300" height="71" />
 
 Unless otherwise noted, all content on this site not previously covered by another liscence is shared under <strong><span class="cc-license-title">Attribution-NonCommercial-ShareAlike 4.0 International</span> </strong><span class="cc-license-identifier"><strong> (CC BY-NC-SA 4.0)</strong>.  </span>
 
@@ -27,7 +27,7 @@ If you would like to use some of the material on this site, please have a look a
 <div id="deed-main-content" class="row ">
 <div id="deed-rights" class="row" dir="ltr">
 <div class="col-sm-offset-2 col-sm-8">
-<h3>You are free to:</h3>
+<h3>You are free to</h3>
 <ul>
  	<li><strong>Share</strong> — copy and redistribute the material in any medium or format</li>
  	<li><strong>Adapt</strong> — remix, transform, and build upon the material</li>
@@ -35,36 +35,19 @@ If you would like to use some of the material on this site, please have a look a
 </ul>
 </div>
 </div>
-<div class="row"></div>
 <div class="row">
-<div class="col-md-offset-1 col-md-10">
-
-<hr />
-
-</div>
+<div class="col-md-offset-1 col-md-10">Under the following terms:</div>
 </div>
 <div id="deed-conditions" class="row">
-<h3>Under the following terms:</h3>
-<ul class="license-properties col-md-offset-2 col-md-8" dir="ltr">
- 	<li class="license by"><strong>Attribution</strong> — You must give <a id="appropriate_credit_popup" class="helpLink" tabindex="0" title="" href="https://creativecommons.org/licenses/by-nc-sa/4.0/#" data-original-title="">appropriate credit</a>, provide a link to the license, and <a id="indicate_changes_popup" class="helpLink" tabindex="0" title="" href="https://creativecommons.org/licenses/by-nc-sa/4.0/#" data-original-title="">indicate if changes were made</a>. You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use. <span id="by-more-container"></span></li>
- 	<li class="license nc"><strong>NonCommercial</strong> — You may not use the material for <a id="commercial_purposes_popup" class="helpLink" tabindex="0" title="" href="https://creativecommons.org/licenses/by-nc-sa/4.0/#" data-original-title="">commercial purposes</a>. <span id="nc-more-container"></span></li>
- 	<li class="license sa"><strong>ShareAlike</strong> — If you remix, transform, or build upon the material, you must distribute your contributions under the <a id="same_license_popup" class="helpLink" tabindex="0" title="" href="https://creativecommons.org/licenses/by-nc-sa/4.0/#" data-original-title="">same license</a> as the original. <span id="sa-more-container"></span></li>
+<ul>
+ 	<li><strong>Attribution</strong> — You must give <a id="appropriate_credit_popup" class="helpLink" tabindex="0" title="" href="https://creativecommons.org/licenses/by-nc-sa/4.0/#" data-original-title="">appropriate credit</a>, provide a link to the license, and <a id="indicate_changes_popup" class="helpLink" tabindex="0" title="" href="https://creativecommons.org/licenses/by-nc-sa/4.0/#" data-original-title="">indicate if changes were made</a>. You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use.</li>
+ 	<li><span id="by-more-container"></span><strong>NonCommercial</strong> — You may not use the material for <a id="commercial_purposes_popup" class="helpLink" tabindex="0" title="" href="https://creativecommons.org/licenses/by-nc-sa/4.0/#" data-original-title="">commercial purposes</a>.</li>
+ 	<li><span id="nc-more-container"></span><strong>ShareAlike</strong> — If you remix, transform, or build upon the material, you must distribute your contributions under the <a id="same_license_popup" class="helpLink" tabindex="0" title="" href="https://creativecommons.org/licenses/by-nc-sa/4.0/#" data-original-title="">same license</a> as the original.</li>
+ 	<li><strong>No additional restrictions</strong> — You may not apply legal terms or <a id="technological_measures_popup" class="helpLink" tabindex="0" title="" href="https://creativecommons.org/licenses/by-nc-sa/4.0/#" data-original-title="">technological measures</a> that legally restrict others from doing anything the license permits.</li>
 </ul>
-</div>
-<div class="row">
-<ul id="deed-conditions-no-icons" class="col-md-offset-2 col-md-8">
- 	<li class="license"><strong>No additional restrictions</strong> — You may not apply legal terms or <a id="technological_measures_popup" class="helpLink" tabindex="0" title="" href="https://creativecommons.org/licenses/by-nc-sa/4.0/#" data-original-title="">technological measures</a> that legally restrict others from doing anything the license permits.</li>
-</ul>
-</div>
-<div class="row">
-<div class="col-md-offset-1 col-md-10">
-
-<hr />
-
-</div>
 </div>
 <div id="deed-understanding" class="row">
-<h3>Notices:</h3>
+<h3>Notices</h3>
 <ul class="understanding license-properties col-md-offset-2 col-md-8">
  	<li class="license">You do not have to comply with the license for elements of the material in the public domain or where your use is permitted by an applicable <a id="exception_or_limitation_popup" class="helpLink" tabindex="0" title="" href="https://creativecommons.org/licenses/by-nc-sa/4.0/#" data-original-title="">exception or limitation</a>.</li>
  	<li class="license">No warranties are given. The license may not give you all of the permissions necessary for your intended use. For example, other rights such as <a id="publicity_privacy_or_moral_rights_popup" class="helpLink" tabindex="0" title="" href="https://creativecommons.org/licenses/by-nc-sa/4.0/#" data-original-title="">publicity, privacy, or moral rights</a> may limit how you use the material.</li>
