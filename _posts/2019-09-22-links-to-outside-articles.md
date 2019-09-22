@@ -187,11 +187,23 @@ https://imgur.com/a/nNK7H
 </div></figure>
 <!-- /wp:core-embed/imgur -->
 
+<!-- wp:heading {"level":3} -->
+<h3>Gay ftm?</h3>
+<!-- /wp:heading -->
+
 <!-- wp:core-embed/reddit {"url":"https://www.reddit.com/r/askgaybros/comments/4chf84/gay_ftm/","type":"rich","providerNameSlug":"reddit","className":""} -->
 <figure class="wp-block-embed-reddit wp-block-embed is-type-rich is-provider-reddit"><div class="wp-block-embed__wrapper">
 https://www.reddit.com/r/askgaybros/comments/4chf84/gay_ftm/
 </div></figure>
 <!-- /wp:core-embed/reddit -->
+
+<!-- wp:heading {"level":3} -->
+<h3>Aren't trans guys all straight?</h3>
+<!-- /wp:heading -->
+
+<!-- wp:heading {"level":3} -->
+<h3>Real talk, what does everyone think of trans guys?</h3>
+<!-- /wp:heading -->
 
 <!-- wp:core-embed/reddit {"url":"https://www.reddit.com/r/askgaybros/comments/2ludlz/real_talk_what_does_everyone_think_of_trans_guys/","type":"rich","providerNameSlug":"reddit","className":""} -->
 <figure class="wp-block-embed-reddit wp-block-embed is-type-rich is-provider-reddit"><div class="wp-block-embed__wrapper">
@@ -199,11 +211,67 @@ https://www.reddit.com/r/askgaybros/comments/2ludlz/real_talk_what_does_everyone
 </div></figure>
 <!-- /wp:core-embed/reddit -->
 
+<!-- wp:heading {"level":4} -->
+<h4>What does "chaser" mean and am I one?</h4>
+<!-- /wp:heading -->
+
+<!-- wp:heading {"level":4} -->
+<h4>Are all trans guys bottoms?</h4>
+<!-- /wp:heading -->
+
+<!-- wp:heading {"level":4} -->
+<h4>I've never met a trans guy.</h4>
+<!-- /wp:heading -->
+
+<!-- wp:heading {"level":4} -->
+<h4>What about surgery? Is it any good?</h4>
+<!-- /wp:heading -->
+
+<!-- wp:core-embed/reddit {"url":"https://www.reddit.com/r/askgaybros/comments/2ludlz/real_talk_what_does_everyone_think_of_trans_guys/clyf414/","type":"rich","providerNameSlug":"reddit","className":""} -->
+<figure class="wp-block-embed-reddit wp-block-embed is-type-rich is-provider-reddit"><div class="wp-block-embed__wrapper">
+https://www.reddit.com/r/askgaybros/comments/2ludlz/real_talk_what_does_everyone_think_of_trans_guys/clyf414/
+</div></figure>
+<!-- /wp:core-embed/reddit -->
+
+<!-- wp:core-embed/reddit {"url":"https://www.reddit.com/r/askgaybros/comments/2ludlz/real_talk_what_does_everyone_think_of_trans_guys/clycpwf/","type":"rich","providerNameSlug":"reddit","className":""} -->
+<figure class="wp-block-embed-reddit wp-block-embed is-type-rich is-provider-reddit"><div class="wp-block-embed__wrapper">
+https://www.reddit.com/r/askgaybros/comments/2ludlz/real_talk_what_does_everyone_think_of_trans_guys/clycpwf/
+</div></figure>
+<!-- /wp:core-embed/reddit -->
+
+<!-- wp:heading -->
+<h2>I am a trans* (transgender) FTM guy. I  just turned 18 a day ago. I am worried about dating. I am pre-OP. Would  you ever date a trans boy? Explain your reasoning.</h2>
+<!-- /wp:heading -->
+
 <!-- wp:core-embed/reddit {"url":"https://www.reddit.com/r/askgaybros/comments/2p3q1n/i_am_a_trans_transgender_ftm_guy_i_just_turned_18/","type":"rich","providerNameSlug":"reddit","className":""} -->
 <figure class="wp-block-embed-reddit wp-block-embed is-type-rich is-provider-reddit"><div class="wp-block-embed__wrapper">
 https://www.reddit.com/r/askgaybros/comments/2p3q1n/i_am_a_trans_transgender_ftm_guy_i_just_turned_18/
 </div></figure>
 <!-- /wp:core-embed/reddit -->
+
+<!-- wp:core-embed/reddit {"url":"https://www.reddit.com/r/askgaybros/comments/2p3q1n/i_am_a_trans_transgender_ftm_guy_i_just_turned_18/cmt6sic/","type":"rich","providerNameSlug":"reddit","className":""} -->
+<figure class="wp-block-embed-reddit wp-block-embed is-type-rich is-provider-reddit"><div class="wp-block-embed__wrapper">
+https://www.reddit.com/r/askgaybros/comments/2p3q1n/i_am_a_trans_transgender_ftm_guy_i_just_turned_18/cmt6sic/
+</div></figure>
+<!-- /wp:core-embed/reddit -->
+
+<!-- wp:heading {"level":4} -->
+<h4>Am I transphobic for not wanting to date/fuck a trans guy?</h4>
+<!-- /wp:heading -->
+
+<!-- wp:heading {"level":4} -->
+<h4>It's just what I am attracted to!</h4>
+<!-- /wp:heading -->
+
+<!-- wp:core-embed/reddit {"url":"https://www.reddit.com/r/askgaybros/comments/2p3q1n/i_am_a_trans_transgender_ftm_guy_i_just_turned_18/cmt8j6m/","type":"rich","providerNameSlug":"reddit","className":""} -->
+<figure class="wp-block-embed-reddit wp-block-embed is-type-rich is-provider-reddit"><div class="wp-block-embed__wrapper">
+https://www.reddit.com/r/askgaybros/comments/2p3q1n/i_am_a_trans_transgender_ftm_guy_i_just_turned_18/cmt8j6m/
+</div><figcaption>I think the key here is to be tactful  and to treat them with respect. You aren't obligated to date someone  you don't find sexually attractive, no matter the reason. That doesn't  make you closed-minded or a bad person, it just means you are in touch  with what you like and have developed specific sexual tastes. (Tastes  that may or may not change over time.)<br>As  far as seeing trans* people as the gender they identify with, I can  tell you from experience that it can be a process. And if I hadn't had  someone so close to me undergo a transition, I may have had an entirely  different experience/perspective.<br>Basically,  the turning point of acceptance for me was seeing him so much happier  as soon as he started living openly and honestly. Until that point I'd  never met a trans* person and was probably in a similar boat that you're  in. But once I saw the change in his demeanor, I knew that him coming  out and coming to terms with his gender identity was only a good thing.<br>It's  hard to re-train yourself when you grew up using female pronouns and a  female name for your younger sibling, but I realized how much harder it  had to be for him to come out and come to terms with something like  that.<br>So yeah, I guess the tl;dr is to be respectful and treat them like the person that they are.</figcaption></figure>
+<!-- /wp:core-embed/reddit -->
+
+<!-- wp:heading {"level":4} -->
+<h4>Would you fuck a guy with a pussy?</h4>
+<!-- /wp:heading -->
 
 <!-- wp:core-embed/reddit {"url":"https://www.reddit.com/r/askgaybros/comments/29lsz8/would_you_fuck_a_guy_with_a_pussy/","type":"rich","providerNameSlug":"reddit","className":""} -->
 <figure class="wp-block-embed-reddit wp-block-embed is-type-rich is-provider-reddit"><div class="wp-block-embed__wrapper">
