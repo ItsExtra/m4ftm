@@ -10,7 +10,7 @@ post_excerpt: >
   to get to know that person.
 layout: post
 permalink: >
-  https://eggplant.m4ftm.com/wp/uncategorized/your-mileage-may-vary/
+  https://eggplant.m4ftm.com/wp/the-basics/your-mileage-may-vary/
 published: true
 post_date: 2019-09-22 17:10:48
 ---
