@@ -77,13 +77,119 @@ https://www.reddit.com/r/askgaybros/comments/aubcsl/would_cis_gay_men_still_date
 </div></figure>
 <!-- /wp:core-embed/reddit -->
 
+<!-- wp:core-embed/reddit {"url":"https://www.reddit.com/r/askgaybros/comments/akwlvv/are_trans_men_ftm_men_in_your_opinion/","type":"rich","providerNameSlug":"reddit","className":""} -->
+<figure class="wp-block-embed-reddit wp-block-embed is-type-rich is-provider-reddit"><div class="wp-block-embed__wrapper">
+https://www.reddit.com/r/askgaybros/comments/akwlvv/are_trans_men_ftm_men_in_your_opinion/
+</div></figure>
+<!-- /wp:core-embed/reddit -->
+
+<!-- wp:core-embed/reddit {"url":"https://www.reddit.com/r/askgaybros/comments/b2bqnl/hey_anyone_attracted_to_ftm_gay_men_too_i_feel_a/","type":"rich","providerNameSlug":"reddit","className":""} -->
+<figure class="wp-block-embed-reddit wp-block-embed is-type-rich is-provider-reddit"><div class="wp-block-embed__wrapper">
+https://www.reddit.com/r/askgaybros/comments/b2bqnl/hey_anyone_attracted_to_ftm_gay_men_too_i_feel_a/
+</div></figure>
+<!-- /wp:core-embed/reddit -->
+
+<!-- wp:core-embed/reddit {"url":"https://www.reddit.com/r/askgaybros/comments/aj7dl9/have_you_ever_hooked_up_with_a_ftm_before/","type":"rich","providerNameSlug":"reddit","className":""} -->
+<figure class="wp-block-embed-reddit wp-block-embed is-type-rich is-provider-reddit"><div class="wp-block-embed__wrapper">
+https://www.reddit.com/r/askgaybros/comments/aj7dl9/have_you_ever_hooked_up_with_a_ftm_before/
+</div></figure>
+<!-- /wp:core-embed/reddit -->
+
+<!-- wp:core-embed/reddit {"url":"https://www.reddit.com/r/askgaybros/comments/9ib2c3/nsfw_if_im_into_ftm_am_i_still_gay/","type":"rich","providerNameSlug":"reddit","className":""} -->
+<figure class="wp-block-embed-reddit wp-block-embed is-type-rich is-provider-reddit"><div class="wp-block-embed__wrapper">
+https://www.reddit.com/r/askgaybros/comments/9ib2c3/nsfw_if_im_into_ftm_am_i_still_gay/
+</div></figure>
+<!-- /wp:core-embed/reddit -->
+
+<!-- wp:core-embed/reddit {"url":"https://www.reddit.com/r/askgaybros/comments/aj6qzt/for_those_who_had_sex_with_ftm_have_you_ever/","type":"rich","providerNameSlug":"reddit","className":""} -->
+<figure class="wp-block-embed-reddit wp-block-embed is-type-rich is-provider-reddit"><div class="wp-block-embed__wrapper">
+https://www.reddit.com/r/askgaybros/comments/aj6qzt/for_those_who_had_sex_with_ftm_have_you_ever/
+</div></figure>
+<!-- /wp:core-embed/reddit -->
+
+<!-- wp:core-embed/reddit {"url":"https://www.reddit.com/r/askgaybros/comments/8w7m55/boy_i_was_talking_to_just_told_me_he_was_trans_im/","type":"rich","providerNameSlug":"reddit","className":""} -->
+<figure class="wp-block-embed-reddit wp-block-embed is-type-rich is-provider-reddit"><div class="wp-block-embed__wrapper">
+https://www.reddit.com/r/askgaybros/comments/8w7m55/boy_i_was_talking_to_just_told_me_he_was_trans_im/
+</div></figure>
+<!-- /wp:core-embed/reddit -->
+
+<!-- wp:core-embed/reddit {"url":"https://www.reddit.com/r/askgaybros/comments/az4yjm/am_i_transphobic_for_refusing_to_date_a_ftm/","type":"rich","providerNameSlug":"reddit","className":""} -->
+<figure class="wp-block-embed-reddit wp-block-embed is-type-rich is-provider-reddit"><div class="wp-block-embed__wrapper">
+https://www.reddit.com/r/askgaybros/comments/az4yjm/am_i_transphobic_for_refusing_to_date_a_ftm/
+</div></figure>
+<!-- /wp:core-embed/reddit -->
+
 <!-- wp:paragraph -->
-<p></p>
+<p><a href="https://www.reddit.com/r/askgaybros/search?q=ftm&amp;restrict_sr=1">https://www.reddit.com/r/askgaybros/search?q=ftm&amp;restrict_sr=1</a></p>
 <!-- /wp:paragraph -->
+
+<!-- wp:core-embed/reddit {"url":"https://www.reddit.com/r/askgaybros/comments/8fo49v/dynamics_of_dating_an_ftm_transgender/","type":"rich","providerNameSlug":"reddit","className":""} -->
+<figure class="wp-block-embed-reddit wp-block-embed is-type-rich is-provider-reddit"><div class="wp-block-embed__wrapper">
+https://www.reddit.com/r/askgaybros/comments/8fo49v/dynamics_of_dating_an_ftm_transgender/
+</div></figure>
+<!-- /wp:core-embed/reddit -->
+
+<!-- wp:quote -->
+<blockquote class="wp-block-quote"><p><a href="https://www.reddit.com/user/MangoTurt1e/">MangoTurt1e</a><br> 17 points · <a rel="noreferrer noopener" href="https://www.reddit.com/r/askgaybros/comments/8fo49v/dynamics_of_dating_an_ftm_transgender/dy58t46/" target="_blank">1 year ago</a> · edited 1 year ago<br>Everything I link is NSFW<br>On the FTM side of things, it will vary  a lot from person to person and where they are at in their transition.<br>Before  I got the tits off my binder and shirt was not coming off. It's been  years since I had top surgery and I don't really think about my chest  anymore. My scars aren't obvious since my chest hair covers them. I  can't feel my nipples much.<br>For  the most part pre bottom surgery I would just lower my pants enough for  you to get it in. Anal only. The clit does grow into a small penis. I  was lucky enough with growth I could pull back the skin on my pubic bone  and have it sit above my thighs with my legs closed.<br>Like this but laying down<br><a rel="noreferrer noopener" href="https://imgur.com/a/jJZq2WY" target="_blank">https://imgur.com/a/jJZq2WY</a><br>This  kept the vag out of view and made it accessible for sucking. It won't  smell or taste like pussy. Testosterone will change the smell and taste  to that of a man. I've tasted both cis men, cis women, and myself.<br>When  most people think FTM surgery they think of phalloplasty. That's where  they take a graft from somewhere, like your arm, and make you a big dick  out of it. There is a more common surgery where they take what grew, re  position it so it's where a dick should be. They can hook up your  urethra  and put in testicle implants.<br><a rel="noreferrer noopener" href="https://i.imgur.com/eozhpiB.jpg" target="_blank">https://i.imgur.com/eozhpiB.jpg</a><br>Best case scenario you look like that David statue by Michelangelo.<br><a rel="noreferrer noopener" href="https://i.imgur.com/G4ztJ0z.jpg" target="_blank">https://i.imgur.com/G4ztJ0z.jpg</a><br>More commonly it's more like that guy from the Hangover movie.<br><a rel="noreferrer noopener" href="https://i.imgur.com/itSHnQP.jpg" target="_blank">https://i.imgur.com/itSHnQP.jpg</a><br>People  talk a lot of shit about phalloplasty. It's been improved a lot over  the years since there has been a lot of genital injuries in the ongoing  war. They have gotten better at shaping it. You can also get medical  tattooing to make it look more realistic. A lot of the pics and all that  are shared are old, outdated, or not showing a completed pahllo. It's a  very long expensive process with many surgical steps. Trans guys are  also bad at falling off the face of the earth after they are done with  their transition and tend not to update.<br>Here is one in action. Pretty sure he is fucking a woman, but all you see of her is side butt cheek.<br><a rel="noreferrer noopener" href="https://www.xtube.com/video-watch/ftm-fucking-18163112" target="_blank">https://www.xtube.com/video-watch/ftm-fucking-18163112</a><br>Jerking off. You can see that he does jizz a bit.<br><a rel="noreferrer noopener" href="https://www.xtube.com/video-watch/post-phalloplasty-jerk-off-32848652" target="_blank">https://www.xtube.com/video-watch/post-phalloplasty-jerk-off-32848652</a><br>This one you can see more detail and shape<br><a rel="noreferrer noopener" href="https://www.xtube.com/video-watch/watch-me-float-29829871" target="_blank">https://www.xtube.com/video-watch/watch-me-float-29829871</a><br>Right now thanks to Obama era laws insurance has to cover trans stuff so it's going to be more common to see post op trans guys.</p><cite>https://www.reddit.com/r/askgaybros/comments/8fo49v/dynamics_of_dating_an_ftm_transgender/dy58t46?utm_source=share&amp;utm_medium=web2x </cite></blockquote>
+<!-- /wp:quote -->
+
+<!-- wp:core-embed/reddit {"url":"https://www.reddit.com/r/askgaybros/comments/9pp1zo/would_you_datehook_up_with_a_ftm_transsexual/","type":"rich","providerNameSlug":"reddit","className":""} -->
+<figure class="wp-block-embed-reddit wp-block-embed is-type-rich is-provider-reddit"><div class="wp-block-embed__wrapper">
+https://www.reddit.com/r/askgaybros/comments/9pp1zo/would_you_datehook_up_with_a_ftm_transsexual/
+</div></figure>
+<!-- /wp:core-embed/reddit -->
+
+<!-- wp:core-embed/reddit {"url":"https://www.reddit.com/r/askgaybros/comments/4hxu68/would_you_consider_dating_a_ftm_individual/","type":"rich","providerNameSlug":"reddit","className":""} -->
+<figure class="wp-block-embed-reddit wp-block-embed is-type-rich is-provider-reddit"><div class="wp-block-embed__wrapper">
+https://www.reddit.com/r/askgaybros/comments/4hxu68/would_you_consider_dating_a_ftm_individual/
+</div></figure>
+<!-- /wp:core-embed/reddit -->
+
+<!-- wp:core-embed/reddit {"url":"https://www.reddit.com/r/askgaybros/comments/6wl7t0/why_would_a_gay_man_want_to_watch_ftm_porn/","type":"rich","providerNameSlug":"reddit","className":""} -->
+<figure class="wp-block-embed-reddit wp-block-embed is-type-rich is-provider-reddit"><div class="wp-block-embed__wrapper">
+https://www.reddit.com/r/askgaybros/comments/6wl7t0/why_would_a_gay_man_want_to_watch_ftm_porn/
+</div></figure>
+<!-- /wp:core-embed/reddit -->
+
+<!-- wp:core-embed/reddit {"url":"https://www.reddit.com/r/askgaybros/comments/6wvqqb/would_you_rather_date_an_extremely_masculine/","type":"rich","providerNameSlug":"reddit","className":""} -->
+<figure class="wp-block-embed-reddit wp-block-embed is-type-rich is-provider-reddit"><div class="wp-block-embed__wrapper">
+https://www.reddit.com/r/askgaybros/comments/6wvqqb/would_you_rather_date_an_extremely_masculine/
+</div></figure>
+<!-- /wp:core-embed/reddit -->
+
+<!-- wp:core-embed/reddit {"url":"https://www.reddit.com/r/askgaybros/comments/3k70lh/is_it_a_dealbreaker_for_a_guy_to_be_trans/","type":"rich","providerNameSlug":"reddit","className":""} -->
+<figure class="wp-block-embed-reddit wp-block-embed is-type-rich is-provider-reddit"><div class="wp-block-embed__wrapper">
+https://www.reddit.com/r/askgaybros/comments/3k70lh/is_it_a_dealbreaker_for_a_guy_to_be_trans/
+</div></figure>
+<!-- /wp:core-embed/reddit -->
 
 <!-- wp:paragraph -->
 <p></p>
 <!-- /wp:paragraph -->
+
+<!-- wp:core-embed/reddit {"url":"https://www.reddit.com/r/GaybrosGoneWild/comments/3jz7xm/this_might_be_a_littleout_of_the_boxfor/","type":"rich","providerNameSlug":"reddit","className":""} -->
+<figure class="wp-block-embed-reddit wp-block-embed is-type-rich is-provider-reddit"><div class="wp-block-embed__wrapper">
+https://www.reddit.com/r/GaybrosGoneWild/comments/3jz7xm/this_might_be_a_littleout_of_the_boxfor/
+</div></figure>
+<!-- /wp:core-embed/reddit -->
+
+<!-- wp:core-embed/imgur {"url":"https://imgur.com/a/nNK7H","type":"rich","providerNameSlug":"imgur","className":""} -->
+<figure class="wp-block-embed-imgur wp-block-embed is-type-rich is-provider-imgur"><div class="wp-block-embed__wrapper">
+https://imgur.com/a/nNK7H
+</div></figure>
+<!-- /wp:core-embed/imgur -->
+
+<!-- wp:core-embed/imgur {"url":"https://imgur.com/a/nNK7H","type":"rich","providerNameSlug":"imgur","className":""} -->
+<figure class="wp-block-embed-imgur wp-block-embed is-type-rich is-provider-imgur"><div class="wp-block-embed__wrapper">
+https://imgur.com/a/nNK7H
+</div></figure>
+<!-- /wp:core-embed/imgur -->
+
+<!-- wp:core-embed/reddit {"url":"https://www.reddit.com/r/askgaybros/comments/4chf84/gay_ftm/","type":"rich","providerNameSlug":"reddit","className":""} -->
+<figure class="wp-block-embed-reddit wp-block-embed is-type-rich is-provider-reddit"><div class="wp-block-embed__wrapper">
+https://www.reddit.com/r/askgaybros/comments/4chf84/gay_ftm/
+</div></figure>
+<!-- /wp:core-embed/reddit -->
 
 <!-- wp:paragraph -->
 <p></p>
