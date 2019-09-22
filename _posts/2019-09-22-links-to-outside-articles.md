@@ -5,7 +5,7 @@ author: Jack
 post_excerpt: ""
 layout: post
 permalink: >
-  https://eggplant.m4ftm.com/wp/uncategorized/links-to-outside-articles/
+  https://eggplant.m4ftm.com/wp/blog/links-to-outside-articles/
 published: true
 post_date: 2019-09-22 00:04:51
 ---
