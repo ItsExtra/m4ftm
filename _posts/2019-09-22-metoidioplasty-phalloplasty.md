@@ -5,7 +5,7 @@ author: Jack
 post_excerpt: ""
 layout: post
 permalink: >
-  https://eggplant.m4ftm.com/wp/uncategorized/metoidioplasty-phalloplasty/
+  https://eggplant.m4ftm.com/wp/hooking-up/metoidioplasty-phalloplasty/
 published: true
 post_date: 2019-09-22 18:38:41
 ---
