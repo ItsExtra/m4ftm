@@ -5,7 +5,7 @@ author: Jack
 post_excerpt: ""
 layout: post
 permalink: >
-  https://eggplant.m4ftm.com/wp/uncategorized/prep-for-trans-guys/
+  https://eggplant.m4ftm.com/wp/blog/prep-for-trans-guys/
 published: true
 post_date: 2019-09-22 18:01:47
 ---
