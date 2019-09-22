@@ -211,6 +211,10 @@ https://www.reddit.com/r/askgaybros/comments/29lsz8/would_you_fuck_a_guy_with_a_
 </div></figure>
 <!-- /wp:core-embed/reddit -->
 
+<!-- wp:heading {"level":3} -->
+<h3>How to find FtM guys?</h3>
+<!-- /wp:heading -->
+
 <!-- wp:core-embed/reddit {"url":"https://www.reddit.com/r/askgaybros/comments/4xyu7m/how_to_find_ftm_guys/","type":"rich","providerNameSlug":"reddit","className":""} -->
 <figure class="wp-block-embed-reddit wp-block-embed is-type-rich is-provider-reddit"><div class="wp-block-embed__wrapper">
 https://www.reddit.com/r/askgaybros/comments/4xyu7m/how_to_find_ftm_guys/
