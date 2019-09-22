@@ -44,7 +44,7 @@ post_date: 2019-09-21 19:30:51
 <!-- /wp:heading -->
 
 <!-- wp:paragraph -->
-<p>Many trans people have some some sort of medical intervention to help them look and feel better in their bodies. Not all people have or want to have the same things done, for all kinds of reasons: price, safety, uncertainty of results, and because not all of us desire to have exactly the same kind of body. Like all people, we have different feelings about our bodies. A feature of one trans person's body that causes them lots of distress (a feeling called <em>dysphoria</em>) could be something another one loves about themselves.</p>
+<p>Many trans people have some some sort of medical intervention to help them look and feel better in their bodies. Not all people have or want to have the same things done, for all kinds of reasons: price, safety, uncertainty of results, and because not all of us desire to have exactly the same kind of body. Like all people, we have different feelings about our bodies. A feature of one trans person's body that causes them lots of distress (a feeling called&nbsp;<em>dysphoria</em>) could be something another one loves about themselves.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
