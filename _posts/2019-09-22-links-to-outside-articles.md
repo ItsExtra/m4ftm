@@ -191,17 +191,47 @@ https://www.reddit.com/r/askgaybros/comments/4chf84/gay_ftm/
 </div></figure>
 <!-- /wp:core-embed/reddit -->
 
-<!-- wp:paragraph -->
-<p></p>
-<!-- /wp:paragraph -->
+<!-- wp:core-embed/reddit {"url":"https://www.reddit.com/r/askgaybros/comments/2ludlz/real_talk_what_does_everyone_think_of_trans_guys/","type":"rich","providerNameSlug":"reddit","className":""} -->
+<figure class="wp-block-embed-reddit wp-block-embed is-type-rich is-provider-reddit"><div class="wp-block-embed__wrapper">
+https://www.reddit.com/r/askgaybros/comments/2ludlz/real_talk_what_does_everyone_think_of_trans_guys/
+</div></figure>
+<!-- /wp:core-embed/reddit -->
 
-<!-- wp:paragraph -->
-<p></p>
-<!-- /wp:paragraph -->
+<!-- wp:core-embed/reddit {"url":"https://www.reddit.com/r/askgaybros/comments/2p3q1n/i_am_a_trans_transgender_ftm_guy_i_just_turned_18/","type":"rich","providerNameSlug":"reddit","className":""} -->
+<figure class="wp-block-embed-reddit wp-block-embed is-type-rich is-provider-reddit"><div class="wp-block-embed__wrapper">
+https://www.reddit.com/r/askgaybros/comments/2p3q1n/i_am_a_trans_transgender_ftm_guy_i_just_turned_18/
+</div></figure>
+<!-- /wp:core-embed/reddit -->
 
-<!-- wp:paragraph -->
-<p></p>
-<!-- /wp:paragraph -->
+<!-- wp:core-embed/reddit {"url":"https://www.reddit.com/r/askgaybros/comments/29lsz8/would_you_fuck_a_guy_with_a_pussy/","type":"rich","providerNameSlug":"reddit","className":""} -->
+<figure class="wp-block-embed-reddit wp-block-embed is-type-rich is-provider-reddit"><div class="wp-block-embed__wrapper">
+https://www.reddit.com/r/askgaybros/comments/29lsz8/would_you_fuck_a_guy_with_a_pussy/
+</div></figure>
+<!-- /wp:core-embed/reddit -->
+
+<!-- wp:core-embed/reddit {"url":"https://www.reddit.com/r/askgaybros/comments/4xyu7m/how_to_find_ftm_guys/","type":"rich","providerNameSlug":"reddit","className":""} -->
+<figure class="wp-block-embed-reddit wp-block-embed is-type-rich is-provider-reddit"><div class="wp-block-embed__wrapper">
+https://www.reddit.com/r/askgaybros/comments/4xyu7m/how_to_find_ftm_guys/
+</div></figure>
+<!-- /wp:core-embed/reddit -->
+
+<!-- wp:core-embed/reddit {"url":"https://www.reddit.com/r/askgaybros/comments/3k70lh/is_it_a_dealbreaker_for_a_guy_to_be_trans/cuxh55x?utm_source=share\u0026utm_medium=web2x","type":"rich","providerNameSlug":"reddit","className":""} -->
+<figure class="wp-block-embed-reddit wp-block-embed is-type-rich is-provider-reddit"><div class="wp-block-embed__wrapper">
+https://www.reddit.com/r/askgaybros/comments/3k70lh/is_it_a_dealbreaker_for_a_guy_to_be_trans/cuxh55x?utm_source=share&amp;utm_medium=web2x
+</div></figure>
+<!-- /wp:core-embed/reddit -->
+
+<!-- wp:core-embed/reddit {"url":"https://www.reddit.com/r/askgaybros/comments/3k70lh/is_it_a_dealbreaker_for_a_guy_to_be_trans/cuvhttg?utm_source=share\u0026utm_medium=web2x","type":"rich","providerNameSlug":"reddit","className":""} -->
+<figure class="wp-block-embed-reddit wp-block-embed is-type-rich is-provider-reddit"><div class="wp-block-embed__wrapper">
+https://www.reddit.com/r/askgaybros/comments/3k70lh/is_it_a_dealbreaker_for_a_guy_to_be_trans/cuvhttg?utm_source=share&amp;utm_medium=web2x
+</div></figure>
+<!-- /wp:core-embed/reddit -->
+
+<!-- wp:embed {"url":"https://www.reddit.com/r/GaybrosGoneWild/search?q=ftm\u0026restrict_sr=1"} -->
+<figure class="wp-block-embed"><div class="wp-block-embed__wrapper">
+https://www.reddit.com/r/GaybrosGoneWild/search?q=ftm&amp;restrict_sr=1
+</div></figure>
+<!-- /wp:embed -->
 
 <!-- wp:paragraph -->
 <p></p>
