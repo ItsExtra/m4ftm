@@ -9,6 +9,8 @@ permalink: >
 published: true
 post_date: 2019-09-22 00:04:51
 ---
+<!-- wp:luckywp/tableofcontents /-->
+
 <!-- wp:quote -->
 <blockquote class="wp-block-quote"><p>8 Outrageous Things Gay Men Say to Trans Men </p><p>As a bisexual trans man who passes, I deal with a lot of "surprise"  reactions from all sorts of people when I reveal my status. When it  comes to sexual and romantic interactions — from dance parties to apps —  a majority of the time I have to do a little trans 101. Cisgender gay  men seem to lack an understanding of trans etiquette and manners.<br> Of course, I've dated a few lovely cis gay men, but 8 out of 10  times, our conversations lack dignity on their end. Here are eight  outrageous things gay cis men say to trans men.&nbsp;</p><cite>https://www.pride.com/transgender/2015/10/23/outrageous-things-gay-cis-men-say-trans-men </cite></blockquote>
 <!-- /wp:quote -->
