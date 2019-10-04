@@ -1,8 +1,23 @@
 # m4ftm.com
 
+I’m collaborating with trans and cis gay, bi and queer men to enrich gay male sex to be inclusive of trans masuline experiences.
+
+## The basic, minimum goals of m4ftm.com
+
+- A quick overview of basics of cis <---> trans homo sex; demystification 
+- Links to more in depth information for those who are interested in it
+- Builds on established strength of gay nale sexuality
+- Actively solicits and incorporates feedback from readers, encouraging them to become contributors
+- Cis g/b/q men to be unafraid of sexual or romantic relationship with trans guys
+- All men who desire so to have great sex with one another in whatever combinations suit them
+- Improve self image and confidence of g/b/q trans men in predominantly cis gay male communities 
+
+
+## GitHub
+
 This GitHub project is here to assist in the development of m4ftm.com ([development site](https://eggplant.m4ftm.com/wp/)). It is just to help with the planning and organization. None of the files or code for that site are hosted here and the content is not being edited on github, though I'm open to changing that if I could figure out how to do it. 
 
-
+I am by no means committedd to GitHub and ultimately would like to move to another platform as there are ethical issues with this one. 
 
 ## Seeking input and collaborators 
 
@@ -15,11 +30,15 @@ In the long run, it would be great if there were people who could do things that
 * create original illustrations and graphics
 * original photography and modelling 
 * Videos like vlogs, documentary type etc
-* XXX videos 
+* XXX videos and pics
 * Social media maintenence: twitter, IG, kik, fb, tumblr, whatever else people are using
 * Make and implement a promotional plan
 * More sophisticated coding than what I can clobber together from wordpress components 
+* Other stuff I haven't even thought of; but hopefully someone will!
 
+## Milestones
+
+There is a very, very rought timeline in the "[Milestones](https://github.com/ItsExtra/m4ftm/milestones)".
 
 ## Issues
 
