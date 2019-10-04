@@ -9,11 +9,13 @@ Although GitHub calls them **issues**, we'd like you to think of them as **conve
 * [![Question](https://img.shields.io/badge/-question-cc317c.svg)][link_question] These issues are questions and represent a great place to start. Whomever has opened the issue wants to hear from you!
 
 
-* [![Good First Bug](https://img.shields.io/badge/-good%20first%20bug-5319e7.svg)][link_goodfirstbug] These issues contain a task that anyone with any level of experience can help with.
+* [![Platforms_Back_end](⛽ Platforms & Back end 🏭)][link_Platforms_Back_end] Deciding what platform to use for main site
     
 
 
-[link_platforms]: https://github.com/ItsExtra/m4ftm/issues?utf8=%E2%9C%93&q=label%3A%22%E2%9B%BD+Platforms+%26+Back+end+%F0%9F%8F%AD%22+
+// To generate fancy "badge" links: https://shields.io/
+
+[link_Platforms_Back_end]: https://github.com/ItsExtra/m4ftm/issues?utf8=%E2%9C%93&q=label%3A%22%E2%9B%BD+Platforms+%26+Back+end+%F0%9F%8F%AD%22+
 
 [link_writing-needed]: https://github.com/ItsExtra/m4ftm/labels/%F0%9F%92%BB%20Writing%20needed%20%F0%9F%93%91
 
@@ -28,6 +30,7 @@ Although GitHub calls them **issues**, we'd like you to think of them as **conve
 
 
 [link_]: URL
+
 
 
 
