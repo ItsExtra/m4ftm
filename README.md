@@ -4,14 +4,7 @@ I’m collaborating with trans and cis gay, bi and queer men to enrich gay male 
 
 ## The basic, minimum goals of m4ftm.com
 
-- A quick overview of basics of cis <---> trans homo sex; demystification 
-- Links to more in depth information for those who are interested in it
-- Builds on established strength of gay nale sexuality
-- Actively solicits and incorporates feedback from readers, encouraging them to become contributors
-- Cis g/b/q men to be unafraid of sexual or romantic relationship with trans guys
-- All men who desire so to have great sex with one another in whatever combinations suit them
-- Improve self image and confidence of g/b/q trans men in predominantly cis gay male communities 
-
+[Please see the wiki](https://github.com/ItsExtra/m4ftm/wiki/The-minimum-required-to-make-a-public-release)
 
 ## GitHub
 
@@ -21,7 +14,7 @@ I am by no means committedd to GitHub and ultimately would like to move to anoth
 
 ## Seeking input and collaborators 
 
-Crurently this is a one person project. I do not anticipate this being the situation long term. However I want to get things under a certain amount of control and have some clarity as to the actual project before hitting up strangers for their time and energy. 
+Currently this is a one person project. I do not anticipate this being the situation long term. However I want to get things under a certain amount of control and have some clarity as to the actual project before hitting up strangers for their time and energy. 
 
 There is no way that I have sufficient knowledge to complete this project on my own. Since it is inherently a project about groups of people, it cannot be written by a single person. At least not by *this* single person.
 
