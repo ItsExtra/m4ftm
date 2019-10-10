@@ -33,7 +33,7 @@ Below are a list of principals. It is *not* required or even expected that contr
 * Sex work, sex workers, porn, customers and consumers of sex work
 * Being poor for any reason
 * The wide diversity of bodies and minds that make up the human species
-
+* A persons desire to be anonymous or pseudonymous online or IRL
 
 
 ---- 
@@ -68,8 +68,8 @@ include:
 
 Examples of unacceptable behavior by participants include:
 
-* The use of sexualized language or imagery and unwelcome sexual attention or
-  advances
+~~* The use of sexualized language or imagery and unwelcome sexual attention or
+  advances~~
 * Trolling, insulting/derogatory comments, and personal or political attacks
 * Public or private harassment
 * Publishing others' private information, such as a physical or electronic
