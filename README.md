@@ -1,4 +1,4 @@
-# m4ftm.com
+# m4ftm
 
 I’m collaborating with trans and cis gay, bi and queer men to enrich gay male sex to be inclusive of trans masuline experiences.
 
