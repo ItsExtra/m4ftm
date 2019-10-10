@@ -1,4 +1,4 @@
-# About writing this file
+# About writing this kind of file
 
 This section to be removed eventually.
 
@@ -10,7 +10,8 @@ GitHub help: [Setting guidelines for repository contributors](https://help.githu
   > -  [The Ruby on Rails contribution guidelines](https://github.com/rails/rails/blob/master/CONTRIBUTING.md)
   > -  [The Open Government contribution guidelines](https://github.com/opengovernment/opengovernment/blob/master/CONTRIBUTING.md)
   
-# 
+# Contents
+[ tbd ]
 
 # Broader principals 
 
@@ -33,8 +34,7 @@ Below are a list of principals. It is *not* required or even expected that contr
 * Sex work, sex workers, porn, customers and consumers of sex work
 * Being poor for any reason
 * The wide diversity of bodies and minds that make up the human species
-* A persons desire to be anonymous or pseudonymous online or IRL
-
+* A person's desire to be anonymous or pseudonymous online or IRL
 
 ---- 
 
@@ -68,7 +68,7 @@ include:
 
 Examples of unacceptable behavior by participants include:
 
-~~* The use of sexualized language or imagery and unwelcome sexual attention or
+* ~~The use of sexualized language or imagery and unwelcome sexual attention or
   advances~~
 * Trolling, insulting/derogatory comments, and personal or political attacks
 * Public or private harassment
