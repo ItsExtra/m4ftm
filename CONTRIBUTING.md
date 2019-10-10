@@ -9,6 +9,32 @@ GitHub help: [Setting guidelines for repository contributors](https://help.githu
   > -  [The Atom editor contribution guidelines](https://github.com/atom/atom/blob/master/CONTRIBUTING.md)
   > -  [The Ruby on Rails contribution guidelines](https://github.com/rails/rails/blob/master/CONTRIBUTING.md)
   > -  [The Open Government contribution guidelines](https://github.com/opengovernment/opengovernment/blob/master/CONTRIBUTING.md)
+  
+# 
+
+# Broader principals 
+
+Below are a list of principals. It is *not* required or even expected that contributors agree with these, however, nothing will be published that contradicts them. In general, these are not the topics of the site, so these guidelines should not have to be refered to very often. 
+
+## Things that are not fine: 
+* Racism and white supremacy: fetishisation of ethnicities, racialized attractiveness standards, anti islam  
+* Stigmatizing drug use or users of any drugs for any reason they choose
+* Anti science and pseudo science including (but not limited to) homeopathy, energy healing, vaccine denialism, climate denialism, creationism
+* Prisons, incarceration, police, kidnapping people for any reason
+* Deportation, xenophobia, anti-immigrant words and actions
+* Exploiting other people
+* Denial of requisit health care to any person for any reason
+* Sexual harssement, sexual assault, rape appology 
+* Militarism or other forms of state violence 
+* Doxing 
+
+## Things that are fine:
+* Fat, being fat
+* Sex work, sex workers, porn, customers and consumers of sex work
+* Being poor for any reason
+* The wide diversity of bodies and minds that make up the human species
+
+
 
 ---- 
 
