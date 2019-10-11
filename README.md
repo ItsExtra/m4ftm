@@ -2,9 +2,16 @@
 
 I’m collaborating with trans and cis gay, bi and queer men to enrich gay male sex to be inclusive of trans masuline experiences.
 
-## The basic, minimum goals of m4ftm.com
+## Documents
 
-[Please see the wiki](https://github.com/ItsExtra/m4ftm/wiki/The-minimum-required-to-make-a-public-release)
+[The minimum required to make a public release](https://github.com/ItsExtra/m4ftm/wiki/The-minimum-required-to-make-a-public-release): This working document attempts to lay out a short term roadmap to get this project to its first release. 
+
+[Principals & Goals](https://github.com/ItsExtra/m4ftm/wiki/Principals-&-Goals): Describes the basic goals of the site, target audience and scope. Attempts to anticipate requests and offers from outside parties such as relating to conducting research and giving us money (ya right). Some guidance for contributors on writing style.
+
+[Assumptions to keep in mind when writing](https://github.com/ItsExtra/m4ftm/wiki/Assumptions): Decsribes the attitude the site should take reagrding cis guys and trans guys. 
+
+[https://github.com/ItsExtra/m4ftm/wiki/Guideline:-Financials](Guideline: Financials)
+Outlines our financial accountability to the public and suggests restrictions on accepting financial or in-kind donations
 
 ## GitHub
 
