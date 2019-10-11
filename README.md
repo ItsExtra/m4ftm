@@ -12,7 +12,7 @@ I’m collaborating with trans and cis gay, bi and queer men to enrich gay male 
 
 [Guideline: Financials](https://github.com/ItsExtra/m4ftm/wiki/Guideline:-Financials): Outlines our financial accountability to the public and suggests restrictions on accepting financial or in-kind donations
 
-[Guideline: Academic & market research](https://github.com/ItsExtra/m4ftm/wiki/Guideline:-Academic-&-market-research)
+[Guideline: Academic & market research](https://github.com/ItsExtra/m4ftm/wiki/Guideline:-Academic-&-market-research): We may choose to participate in a research project. Here are some things we may consider when making a decision about this. 
 
 ## GitHub
 
