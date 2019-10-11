@@ -10,8 +10,9 @@ I’m collaborating with trans and cis gay, bi and queer men to enrich gay male 
 
 [Assumptions to keep in mind when writing](https://github.com/ItsExtra/m4ftm/wiki/Assumptions): Decsribes the attitude the site should take reagrding cis guys and trans guys. 
 
-[https://github.com/ItsExtra/m4ftm/wiki/Guideline:-Financials](Guideline: Financials)
-Outlines our financial accountability to the public and suggests restrictions on accepting financial or in-kind donations
+[Guideline: Financials](https://github.com/ItsExtra/m4ftm/wiki/Guideline:-Financials): Outlines our financial accountability to the public and suggests restrictions on accepting financial or in-kind donations
+
+[Guideline: Academic & market research](https://github.com/ItsExtra/m4ftm/wiki/Guideline:-Academic-&-market-research)
 
 ## GitHub
 
