@@ -16,9 +16,9 @@ I’m collaborating with trans and cis gay, bi and queer men to enrich gay male 
 
 ## GitHub
 
-This GitHub project is here to assist in the development of m4ftm.com ([development site](https://eggplant.m4ftm.com/wp/)). It is just to help with the planning and organization. None of the files or code for that site are hosted here and the content is not being edited on github, though I'm open to changing that if I could figure out how to do it. 
+This GitHub project is here to assist in the development of m4ftm.com. It is just to help with the planning and organization. None of the files or code for that site are hosted here and the content is not being edited on github, though I'm open to changing that if I could figure out how to do it. 
 
-I am by no means committedd to GitHub and ultimately would like to move to another platform as there are ethical issues with this one. 
+I am by no means committed to GitHub and ultimately would like to move to another platform as there are ethical issues with this one. 
 
 ## Seeking input and collaborators 
 
@@ -43,7 +43,10 @@ There is a very, very rought timeline in the "[Milestones](https://github.com/It
 
 ## Issues
 
-The way tasks and discussions are organized here is by "[labels](https://github.com/ItsExtra/m4ftm/labels)". The current system for organizing them isn't super solid but below are the main labels as of time of writing. 
+The way tasks and discussions are organized here is by "[labels](https://github.com/ItsExtra/m4ftm/labels)". 
+
+<!--
+The current system for organizing them isn't super solid but below are the main labels as of time of writing. 
 
 [Here is a list of all open issues](https://github.com/ItsExtra/m4ftm/issues)
 
@@ -76,7 +79,7 @@ The way tasks and discussions are organized here is by "[labels](https://github.
 [link_Promotion]: https://github.com/ItsExtra/m4ftm/labels/%F0%9F%93%A3%20Promotion%20%F0%9F%93%A3
 [link_Rejected]: https://github.com/ItsExtra/m4ftm/labels/%F0%9F%9A%ABRejected%F0%9F%9A%AB
 [link_Webhost]: https://github.com/ItsExtra/m4ftm/labels/%F0%9F%94%A7%20Webhost%20%F0%9F%94%A7
-
+-->
 
 
 
