@@ -68,7 +68,7 @@ The current system for organizing them isn't super solid but below are the main 
 
 * [🔧 Webhost 🔧 ](link_Webhost)
 
-<!-- To generate fancy "badge" links: https://shields.io/ -->
+!-- To generate fancy "badge" links: https://shields.io/ --
 
 [link_Platforms_back_end]: https://github.com/ItsExtra/m4ftm/issues?utf8=%E2%9C%93&q=label%3A%22%E2%9B%BD+Platforms+%26+Back+end+%F0%9F%8F%AD%22+
 [link_Writing-needed]: https://github.com/ItsExtra/m4ftm/labels/%F0%9F%92%BB%20Writing%20needed%20%F0%9F%93%91
